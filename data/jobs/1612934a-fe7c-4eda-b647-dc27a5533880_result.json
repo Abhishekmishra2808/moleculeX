@@ -1,0 +1,499 @@
+{
+  "job_id": "1612934a-fe7c-4eda-b647-dc27a5533880",
+  "query": "Show me clinical trials for diabetes treatments with less than 5 active competitors",
+  "status": "completed",
+  "executive_summary": "Analysis of diabetes treatment clinical trials reveals a promising landscape with low direct competition (less than 5 active competitors) in the \"None\" area, though no trials are currently active or recruiting. This suggests an untapped opportunity for novel therapies, particularly those targeting areas identified in the top trials utilizing real-world data and exploring combination therapies. Furthermore, the presence of relevant patents and publications indicate a foundation for innovation in GLP-1 receptor agonists and SGLT2 inhibitor combinations, positioning these areas for potential market growth.",
+  "key_findings": [
+    "Analysis Confidence: Medium (1/100) - Based on 16 trials, 5 patents, 14 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMID41161770",
+      "title": "Using real-world data to predict findings of an ongoing phase IV trial: glycemic control of semaglutide versus standard of care.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "BMJ open diabetes research & care",
+      "intervention": null,
+      "sponsor": "Kattinakere Sreedhara S, Schneeweiss S, D'Andrea E",
+      "start_date": "2025 Oct 29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41161770/",
+      "retrieved_at": "2025-11-09T17:41:00.012652",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "nct02226510",
+      "title": "The Effect of Metformin and Dapagliflozin on Epicardial Adipose Tissue in Prediabetes and Type 2 Diabetic Patients",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes Prediabetes Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "American Diabetes Association",
+      "start_date": "2018-7-1",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.2337/db18-1238-p",
+      "retrieved_at": "2025-11-09T17:40:58.887884",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "PMC12481776",
+      "title": "The efficacy and safety of herbal medicines for glycaemic control and insulin resistance in individuals with type 2 diabetes: an umbrella review.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes OR Prediabetes OR Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "Li E, Maunder A, Liu J, Pandey C, Cave A, O'Fee A,",
+      "start_date": "2025-09-30",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "School of Medicine, Western Sydney University, Pen",
+      "source_url": "https://europepmc.org/article/MED/41029669",
+      "retrieved_at": "2025-11-09T17:40:58.898430",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "PMID41195207",
+      "title": "A study on the clinical effectiveness of a tiered management model for type 2 diabetes based on a three-level linkage mechanism in the context of residency training: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Frontiers in endocrinology",
+      "intervention": null,
+      "sponsor": "Wu S, Liu T, Chen L",
+      "start_date": "2025",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41195207/",
+      "retrieved_at": "2025-11-09T17:41:00.012652",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41192933",
+      "title": "Rapid improvements in glycemic management with use of continuous glucose monitoring in adults with type 2 diabetes treated with basal insulin: 3-month analysis of the MOBILE study.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "BMJ open diabetes research & care",
+      "intervention": null,
+      "sponsor": "Martens TW, Beck RW, Griffen C",
+      "start_date": "2025 Nov 4",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41192933/",
+      "retrieved_at": "2025-11-09T17:41:00.012652",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMC12235772",
+      "title": "Effects of physical activity on visual outcomes among type 2 diabetes patients: protocol for a scoping review of randomized controlled trials.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes OR Prediabetes OR Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "Antiri EO, Hormenu T, Ocansey S, Ansah EW.",
+      "start_date": "2025-07-08",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Health, Physical Education and Recre",
+      "source_url": "https://europepmc.org/article/MED/40629479",
+      "retrieved_at": "2025-11-09T17:40:58.898430",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "PMC12459596",
+      "title": "Cognitive and motor dual-task performance in older adults with prediabetes and type 2 diabetes mellitus: A cross-sectional study.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes OR Prediabetes OR Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "Mermerkaya G, Mermerkaya HH, Ozkan Sevencan N, Var",
+      "start_date": "2025-09-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Therapy and Rehabilitation, Vocation",
+      "source_url": "https://europepmc.org/article/MED/40988205",
+      "retrieved_at": "2025-11-09T17:40:58.898430",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "PMC12451836",
+      "title": "Longitudinal Metabolic Trajectories in Diabetes Prevention Program Participants Reveal Subgroups With Varying Micro- and Macrovascular Complication Risks.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes OR Prediabetes OR Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "Kobayashi E, Linden-Santangeli NJ, Chan N, Toomey ",
+      "start_date": "2025-10-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Bioinformatics and Systems Biology Graduate Progra",
+      "source_url": "https://europepmc.org/article/MED/40857122",
+      "retrieved_at": "2025-11-09T17:40:58.898430",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "PMC12257117",
+      "title": "The Impact of Diabetes and Metabolic Syndrome Burden on Pain, Neuropathy Severity and Fiber Type.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes OR Prediabetes OR Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "Davalos L, Callaghan BC, Muthukumar L, Thomas S, R",
+      "start_date": "2025-05-19",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Neurology, Kansas University Medical",
+      "source_url": "https://europepmc.org/article/MED/40386990",
+      "retrieved_at": "2025-11-09T17:40:58.898430",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "PMC12111914",
+      "title": "Bowel Preparation for Colonoscopy in Patients with Diabetes Mellitus-A Gap We Have to Bridge: A Review.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes OR Prediabetes OR Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "Jukic I, Vukovic J.",
+      "start_date": "2025-05-11",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Gastroenterology and Hepatology, Uni",
+      "source_url": "https://europepmc.org/article/MED/40429332",
+      "retrieved_at": "2025-11-09T17:40:58.898430",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "PMID41199793",
+      "title": "The Effect Of Visual Deprivation During Cognitive Motor Dual Task Training On Cognitive Function In Type 2 Diabetes Mellitus.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "F1000Research",
+      "intervention": null,
+      "sponsor": "Anandh Raj J, Patra RC, S K",
+      "start_date": "2025",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41199793/",
+      "retrieved_at": "2025-11-09T17:41:00.012652",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41196453",
+      "title": "Two-year follow-up assessment of a randomized controlled trial evaluating the durability of Tai Chi on cognitive function in older adults with type 2 diabetes and mild cognitive impairment.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Aging clinical and experimental research",
+      "intervention": null,
+      "sponsor": "Li X, Huang J, Deng H",
+      "start_date": "2025 Nov 6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41196453/",
+      "retrieved_at": "2025-11-09T17:41:00.012652",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "nct00360815",
+      "title": "Diabetic Peripheral Neuropathy and Urological Complications in Type 1 Diabetes: Findings From the Epidemiology of Diabetes Interventions and Complications Study",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes Prediabetes Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "American Diabetes Association",
+      "start_date": "2021-11-2",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.2337/dc21-1276",
+      "retrieved_at": "2025-11-09T17:40:58.887884",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "nct01162993",
+      "title": "Severity of Neuropathy Is Associated With Long-term Spinal Cord Stimulation Outcome in Painful Diabetic Peripheral Neuropathy: Five-Year Follow-up of a Prospective Two-Center Clinical Trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes Prediabetes Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "American Diabetes Association",
+      "start_date": "2017-11-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.2337/dc17-0983",
+      "retrieved_at": "2025-11-09T17:40:58.887884",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    },
+    {
+      "nct_id": "nct00081328",
+      "title": "Risk Factors for Diabetic Peripheral Neuropathy in Adolescents and Young Adults With Type 2 Diabetes: Results From the TODAY Study",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 2 Diabetes Prediabetes Diabetic Neuropathy",
+      "intervention": null,
+      "sponsor": "American Diabetes Association",
+      "start_date": "2021-10-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.2337/dc21-1074",
+      "retrieved_at": "2025-11-09T17:40:58.887884",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 2 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathy"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:40:58.204504",
+      "match_score": 0.2,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:40:58.204504",
+      "match_score": 0.1,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:40:58.203486",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:40:58.204504",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb Company",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:40:58.204504",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8366922/",
+      "snippet": "<h4>Background</h4>Long-term microvascular and neurologic complications cause major morbidity and mortality in patients with insulin-dependent diabetes mellitus (IDDM). We examined whether intensive treatment with the goal of maintaining blood glucose concentrations close to the normal range could d...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "Complementary insulin therapy improves blood glucose and serum lipid parameters in type 2 (non-insulin-dependent) diabetic patients. I. Effects on blo",
+      "url": "https://doi.org/10.1055/s-0029-1211802",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:40:58.885885",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "Diabetic Nephropathy—Treatment: Hyperglycemia Control",
+      "url": "https://doi.org/10.5005/jp/books/12445_8",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:40:58.885885",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "366-P: Mean Blood Glucose–Independent Racial Disparity in HbA1c and Higher Risk for Severe Hypoglycemia Is Evident among Participants in the Diabetes ",
+      "url": "https://doi.org/10.2337/db24-366-p",
+      "snippet": "Introduction: HbA1c target levels are often used as a treatment goal for patients with diabetes. Many recent studies indicate that HbA1c overestimates mean blood glucose (MBG) among Non-Hispanic Black (NHB) patients compared to Non-Hispanic White (NH...",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:40:58.884882",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "Letter to the Editor Regarding: Patterns and Impact of Hypoglycemia, Hyperglycemia, and Glucose Variability on Inpatients with Insulin-Treated Cystic ",
+      "url": "https://doi.org/10.1007/s13300-016-0202-y",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:40:58.885885",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territori...",
+      "url": "https://europepmc.org/article/PMC/PMC6227754",
+      "snippet": "<h4>Background</h4>The Global Burden of Diseases, Injuries, and Risk Factors Study 2017 (GBD 2017) includes a comprehensive assessment of incidence, prevalence, and years lived with disability (YLDs) for 354 causes in 195 countries and territories from 1990 to 2017. Previous GBD studies have shown h...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global Burden of Cardiovascular Diseases and Risk Factors, 1990-2019: Update From the GBD 2019 Study.",
+      "url": "https://europepmc.org/article/PMC/PMC7755038",
+      "snippet": "Cardiovascular diseases (CVDs), principally ischemic heart disease (IHD) and stroke, are the leading cause of global mortality and a major contributor to disability. This paper reviews the magnitude of total CVD burden, including 13 underlying causes of cardiovascular death and 9 related risk factor...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls.",
+      "url": "https://europepmc.org/article/PMC/PMC2719288",
+      "snippet": "There is increasing evidence that genome-wide association (GWA) studies represent a powerful approach to the identification of genes involved in common human diseases. We describe a joint GWA study (using the Affymetrix GeneChip 500K Mapping Array Set) undertaken in the British population, which has...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.",
+      "url": "https://europepmc.org/article/PMC/PMC7135076",
+      "snippet": "<h4>Background</h4>In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the epidemiological and clinical characteristics of 2019-nCoV pneumonia.<h4>Methods</h4>In this retrospective, single-centre study, we include...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Understanding the Warburg effect: the metabolic requirements of cell proliferation.",
+      "url": "https://europepmc.org/article/PMC/PMC2849637",
+      "snippet": "In contrast to normal differentiated cells, which rely primarily on mitochondrial oxidative phosphorylation to generate the energy needed for cellular processes, most cancer cells instead rely on aerobic glycolysis, a phenomenon termed \"the Warburg effect.\" Aerobic glycolysis is an inefficient way t...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Ves...",
+      "url": "https://europepmc.org/article/PMC/PMC6322352",
+      "snippet": "The last decade has seen a sharp increase in the number of scientific publications describing physiological and pathological functions of extracellular vesicles (EVs), a collective term covering various subtypes of cell-released, membranous structures, called exosomes, microvesicles, microparticles,...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The diagnosis of mild cognitive impairment due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association...",
+      "url": "https://europepmc.org/article/PMC/PMC3312027",
+      "snippet": "The National Institute on Aging and the Alzheimer's Association charged a workgroup with the task of developing criteria for the symptomatic predementia phase of Alzheimer's disease (AD), referred to in this article as mild cognitive impairment due to AD. The workgroup developed the following two se...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The biology<b>,</b> function<b>,</b> and biomedical applications of exosomes.",
+      "url": "https://europepmc.org/article/PMC/PMC7717626",
+      "snippet": "The study of extracellular vesicles (EVs) has the potential to identify unknown cellular and molecular mechanisms in intercellular communication and in organ homeostasis and disease. Exosomes, with an average diameter of ~100 nanometers, are a subset of EVs. The biogenesis of exosomes involves their...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Exploring the full spectrum of macrophage activation.",
+      "url": "https://europepmc.org/article/PMC/PMC2724991",
+      "snippet": "Macrophages display remarkable plasticity and can change their physiology in response to environmental cues. These changes can give rise to different populations of cells with distinct functions. In this Review we suggest a new grouping of macrophage populations based on three different homeostatic ...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:59.244452",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.72,
+  "confidence_level": "Medium",
+  "report_url": "/api/reports/job_1612934a-fe7c-4eda-b647-dc27a5533880.pdf",
+  "created_at": "2025-11-09T12:10:46.940465",
+  "completed_at": "2025-11-09T12:11:10.371410"
+}

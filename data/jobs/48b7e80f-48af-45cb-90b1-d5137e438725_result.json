@@ -1,0 +1,445 @@
+{
+  "job_id": "48b7e80f-48af-45cb-90b1-d5137e438725",
+  "query": "What are the emerging opportunities in cardiovascular drug development in Asia?",
+  "status": "completed",
+  "executive_summary": "Analysis of 'What are the emerging opportunities in cardiovascular drug development in Asia?' reveals 11 relevant clinical trials, with 0 currently active or recruiting. The competitive landscape shows low competition in Asia. This represents a significant opportunity for market entry with limited direct competition. Patent analysis identified 5 relevant patents, and web intelligence gathered 19 supporting data points. ",
+  "key_findings": [
+    "Analysis Confidence: High (1/100) - Based on 11 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on Asia market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12270896",
+      "title": "Harnessing the therapeutic value of Tanshinone IIA: a breakthrough therapy in cardiovascular diseases.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis OR Peripheral Artery Disease OR Arrhythmia",
+      "intervention": null,
+      "sponsor": "Du L, Guan C, Zhang H, Jia H, Wan Q.",
+      "start_date": "2025-07-04",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Traumatic Orthopedics, Ganzhou Tradi",
+      "source_url": "https://europepmc.org/article/MED/40689206",
+      "retrieved_at": "2025-11-09T17:59:11.326836",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "nct00208767",
+      "title": "Effect of Angiotensin II Type I Receptor Blockade with Valsartan on Carotid Artery Atherosclerosis: A Double Blind Randomized Clinical Trial Comparing Valsartan and Placebo (EFFERVESCENT)",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis Peripheral Artery Disease Arrhythmia",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2016-4",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.ahj.2015.12.021",
+      "retrieved_at": "2025-11-09T17:59:13.253398",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "nct00781950",
+      "title": "The effect of dietary flaxseed on improving symptoms of cardiovascular disease in patients with peripheral artery disease",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis Peripheral Artery Disease Arrhythmia",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2011-9",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.cct.2011.05.005",
+      "retrieved_at": "2025-11-09T17:59:13.253398",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "nct00005131",
+      "title": "Triglyceride-glucose index in the development of peripheral artery disease: findings from the Atherosclerosis Risk in Communities (ARIC) Study",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis Peripheral Artery Disease Arrhythmia",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2021-6-24",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1186/s12933-021-01319-1",
+      "retrieved_at": "2025-11-09T17:59:13.253398",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "isrctn61576291",
+      "title": "Rationale, design, and baseline characteristics of the Study assessInG the morbidity-mortality beNefits of the If inhibitor ivabradine in patients with coronarY artery disease (SIGNIFY trial): A randomized, double-blind, placebo-controlled trial of ivabradine in patients with stable coronary artery disease without clinical heart failure",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis Peripheral Artery Disease Arrhythmia",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2013-10",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.ahj.2013.06.024",
+      "retrieved_at": "2025-11-09T17:59:13.253398",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "PMC12542166",
+      "title": "Effects of mannitol on cardiac function and postoperative arrhythmias after coronary artery bypass grafting: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis OR Peripheral Artery Disease OR Arrhythmia",
+      "intervention": null,
+      "sponsor": "Maslakpak MH, Negargar S, Farbod A, Fakhari S, Kha",
+      "start_date": "2025-10-22",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Nursing and Midwifery School, Maternal and Childho",
+      "source_url": "https://europepmc.org/article/MED/41126237",
+      "retrieved_at": "2025-11-09T17:59:11.326836",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "nct01855412",
+      "title": "The LIBERTY study: Design of a prospective, observational, multicenter trial to evaluate the acute and long-term clinical and economic outcomes of real-world endovascular device interventions in treating peripheral artery disease",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis Peripheral Artery Disease Arrhythmia",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2016-4",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.ahj.2015.12.013",
+      "retrieved_at": "2025-11-09T17:59:13.253398",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "PMC12386311",
+      "title": "A Rationale for the Use of Ivabradine in the Perioperative Phase of Cardiac Surgery: A Review.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis OR Peripheral Artery Disease OR Arrhythmia",
+      "intervention": null,
+      "sponsor": "Ballas CE, Katsouras CS, Siaravas KC, Tzourtzos I,",
+      "start_date": "2025-07-31",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Cardiac Surgery, University Hospital",
+      "source_url": "https://europepmc.org/article/MED/40863360",
+      "retrieved_at": "2025-11-09T17:59:11.326836",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "PMC12542024",
+      "title": "AI-quantified epicardial adipose tissue and prediction of future myocardial infarction in patients with cardiometabolic disease: a post-hoc analysis from the SCOT-HEART trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis OR Peripheral Artery Disease OR Arrhythmia",
+      "intervention": null,
+      "sponsor": "Geers J, Manral N, Park C, Tomasino GF, Grodecki K",
+      "start_date": "2025-10-22",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Biomedical Imaging Research Institute, Cedars-Sina",
+      "source_url": "https://europepmc.org/article/MED/41126192",
+      "retrieved_at": "2025-11-09T17:59:11.326836",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "PMC12506480",
+      "title": "Randomized Controlled Trials Evaluating Artificial Intelligence in Cardiovascular Care: A Systematic Review.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis OR Peripheral Artery Disease OR Arrhythmia",
+      "intervention": null,
+      "sponsor": "Hadida Barzilai D, Sudri K, Goshen G, Klang E, Zim",
+      "start_date": "2025-09-24",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "ARC Innovation Center, Sagol AI Hub, Sheba Medical",
+      "source_url": "https://europepmc.org/article/MED/40997553",
+      "retrieved_at": "2025-11-09T17:59:11.326836",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    },
+    {
+      "nct_id": "PMC12538821",
+      "title": "Adjunctive terlipressin versus placebo in the treatment of refractory septic shock: a randomized, placebo-controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Atherosclerosis OR Peripheral Artery Disease OR Arrhythmia",
+      "intervention": null,
+      "sponsor": "Tongyoo S, Chayakul C, Aritajati T, Tanyalakmara T",
+      "start_date": "2025-10-21",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Division of Critical Care, Department of Medicine,",
+      "source_url": "https://europepmc.org/article/MED/41121365",
+      "retrieved_at": "2025-11-09T17:59:11.326836",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Atherosclerosis",
+        "Peripheral Artery Disease",
+        "Arrhythmia"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:59:13.526709",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:59:13.526709",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:59:13.525719",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:59:13.526709",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:59:13.526709",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "Therapeutic Advances in Cardiovascular Disease",
+      "title": "Ranolazine and Ivabradine: two different modalities to act against ischemic heart disease",
+      "url": "https://doi.org/10.1177/1753944716636042",
+      "snippet": "Among the innovative drugs recently introduced for the management of chronic stable angina, Ranolazine and ivabradine represent two most true innovations. In fact, even if both drugs act by reducing myocardial work and thus oxygen consumption, this happens by a peculiar mechanism unlike that of conv...",
+      "relevance_score": 0.52,
+      "retrieved_at": "2025-11-09T17:59:13.842808",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Cardiology and Cardiovascular Interventions",
+      "title": "Racial Disparities in Ischemic Heart Disease",
+      "url": "https://doi.org/10.31579/2641-0419/269",
+      "snippet": "Ischemic heart disease is a leading cause of death for most racial and ethnic minorities and is estimated to be responsible for one in seven deaths in the United States.  Black adults have the highest burden of cardiovascular disease. Despite significant advances in treatment of ischemic heart disea...",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:59:13.841807",
+      "matched_terms": []
+    },
+    {
+      "source": "European Journal of Cardiovascular Nursing",
+      "title": "Knowledge on heart disease of the person with ischemic heart disease",
+      "url": "https://doi.org/10.1093/eurjcn/zvad064.133",
+      "snippet": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Funding Acknowledgements</jats:title>\n                  Type of funding sources: None.\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Introduction</jats:title>\n              ...",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:59:13.842808",
+      "matched_terms": []
+    },
+    {
+      "source": "Seminars in Dialysis",
+      "title": "THE CLINICAL EPIDEMIOLOGY OF CARDIOVASCULAR DISEASES IN CHRONIC KIDNEY DISEASE: Clinical Epidemiology of Cardiac Disease in Dialysis Patients: Left Ve",
+      "url": "https://doi.org/10.1046/j.1525-139x.2003.160271.x",
+      "snippet": "<jats:title>ABSTRACT</jats:title>Patients with end‐stage renal disease (ESRD) are at extreme cardiovascular risk. At least half of all patients starting dialysis therapy have overt cardiovascular disease (CVD). In addition, recent studies suggest annual incidence rates for new‐onset cardiac failure,...",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T17:59:13.842808",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Executive Summary of The Third Report of The National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, And Treatment of ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11368702/",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "Cardiovascular disease",
+      "url": "https://en.wikipedia.org/?curid=512662",
+      "snippet": "predisposition, are immutable; however, many important cardiovascular risk factors are modifiable by lifestyle change, social change, drug treatment (for",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T17:59:13.388088",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Bias in meta-analysis detected by a simple, graphical test.",
+      "url": "https://europepmc.org/article/PMC/PMC2127453",
+      "snippet": "<h4>Objective</h4>Funnel plots (plots of effect estimates against sample size) may be useful to detect bias in meta-analyses that were later contradicted by large trials. We examined whether a simple test of asymmetry of funnel plots predicts discordance of results when meta-analyses are compared to...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "PLINK: a tool set for whole-genome association and population-based linkage analyses.",
+      "url": "https://europepmc.org/article/PMC/PMC1950838",
+      "snippet": "Whole-genome association studies (WGAS) bring new computational, as well as analytic, challenges to researchers. Many existing genetic-analysis tools are not designed to handle such large data sets in a convenient manner and do not necessarily exploit the new opportunities that whole-genome data bri...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics ...",
+      "url": "https://europepmc.org/article/PMC/PMC4544753",
+      "snippet": "The American College of Medical Genetics and Genomics (ACMG) previously developed guidance for the interpretation of sequence variants.(1) In the past decade, sequencing technology has evolved rapidly with the advent of high-throughput next-generation sequencing. By adopting and leveraging next-gene...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A rating scale for depression.",
+      "url": "https://europepmc.org/article/PMC/PMC495331",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A new equation to estimate glomerular filtration rate.",
+      "url": "https://europepmc.org/article/PMC/PMC2763564",
+      "snippet": "<h4>Background</h4>Equations to estimate glomerular filtration rate (GFR) are routinely used to assess kidney function. Current equations have limited precision and systematically underestimate measured GFR at higher values.<h4>Objective</h4>To develop a new estimating equation for GFR: the Chronic ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical Characteristics of Coronavirus Disease 2019 in China.",
+      "url": "https://europepmc.org/article/PMC/PMC7092819",
+      "snippet": "<h4>Background</h4>Since December 2019, when coronavirus disease 2019 (Covid-19) emerged in Wuhan city and rapidly spread throughout China, data have been needed on the clinical characteristics of the affected patients.<h4>Methods</h4>We extracted data regarding 1099 patients with laboratory-confirm...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.",
+      "url": "https://europepmc.org/article/PMC/PMC7270627",
+      "snippet": "<h4>Background</h4>Since December, 2019, Wuhan, China, has experienced an outbreak of coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Epidemiological and clinical characteristics of patients with COVID-19 have been reported but risk fa...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).",
+      "url": "https://europepmc.org/article/PMC/PMC4968574",
+      "snippet": "<h4>Importance</h4>Definitions of sepsis and septic shock were last revised in 2001. Considerable advances have since been made into the pathobiology (changes in organ function, morphology, cell biology, biochemistry, immunology, and circulation), management, and epidemiology of sepsis, suggesting t...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The REDCap consortium: Building an international community of software platform partners.",
+      "url": "https://europepmc.org/article/PMC/PMC7254481",
+      "snippet": "The Research Electronic Data Capture (REDCap) data management platform was developed in 2004 to address an institutional need at Vanderbilt University, then shared with a limited number of adopting sites beginning in 2006. Given bi-directional benefit in early sharing experiments, we created a broad...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:59:13.618806",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.85,
+  "confidence_level": "High",
+  "report_url": "/api/reports/job_48b7e80f-48af-45cb-90b1-d5137e438725.pdf",
+  "created_at": "2025-11-09T12:28:58.917252",
+  "completed_at": "2025-11-09T12:29:26.470757"
+}

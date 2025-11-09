@@ -1,0 +1,445 @@
+{
+  "job_id": "b33c4aba-c785-426f-9fa8-e63cee12a113",
+  "query": "What are the emerging opportunities in cardiovascular drug development in Asia?",
+  "status": "completed",
+  "executive_summary": "Analysis of 'What are the emerging opportunities in cardiovascular drug development in Asia?' reveals 11 relevant clinical trials, with 0 currently active or recruiting. The competitive landscape shows low competition in Asia. This represents a significant opportunity for market entry with limited direct competition. Patent analysis identified 5 relevant patents, and web intelligence gathered 23 supporting data points. ",
+  "key_findings": [
+    "Analysis Confidence: High (1/100) - Based on 11 trials, 5 patents, 23 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on Asia market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12506480",
+      "title": "Randomized Controlled Trials Evaluating Artificial Intelligence in Cardiovascular Care: A Systematic Review.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease OR Atrial Fibrillation OR Heart Failure",
+      "intervention": null,
+      "sponsor": "Hadida Barzilai D, Sudri K, Goshen G, Klang E, Zim",
+      "start_date": "2025-09-24",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "ARC Innovation Center, Sagol AI Hub, Sheba Medical",
+      "source_url": "https://europepmc.org/article/MED/40997553",
+      "retrieved_at": "2025-11-09T18:20:55.733884",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "PMC12551075",
+      "title": "Levosimendan in Decompensated Heart Failure with Reduced Ejection Fraction in Older Adults: A Systematic Review of Safety and Efficacy.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease OR Atrial Fibrillation OR Heart Failure",
+      "intervention": null,
+      "sponsor": "Zavaleta-Monestel E, Mora-Jiménez J, Cruz-Mora K, ",
+      "start_date": "2025-09-30",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Health Research Department, Clínica Bíblica, San J",
+      "source_url": "https://europepmc.org/article/MED/41133649",
+      "retrieved_at": "2025-11-09T18:20:55.733884",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "PMC12542024",
+      "title": "AI-quantified epicardial adipose tissue and prediction of future myocardial infarction in patients with cardiometabolic disease: a post-hoc analysis from the SCOT-HEART trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease OR Atrial Fibrillation OR Heart Failure",
+      "intervention": null,
+      "sponsor": "Geers J, Manral N, Park C, Tomasino GF, Grodecki K",
+      "start_date": "2025-10-22",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Biomedical Imaging Research Institute, Cedars-Sina",
+      "source_url": "https://europepmc.org/article/MED/41126192",
+      "retrieved_at": "2025-11-09T18:20:55.733884",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "PMC12386311",
+      "title": "A Rationale for the Use of Ivabradine in the Perioperative Phase of Cardiac Surgery: A Review.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease OR Atrial Fibrillation OR Heart Failure",
+      "intervention": null,
+      "sponsor": "Ballas CE, Katsouras CS, Siaravas KC, Tzourtzos I,",
+      "start_date": "2025-07-31",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Cardiac Surgery, University Hospital",
+      "source_url": "https://europepmc.org/article/MED/40863360",
+      "retrieved_at": "2025-11-09T18:20:55.733884",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "PMC12508196",
+      "title": "Enhanced external counter pulsation as a novel therapy to maintain cardiac output during hemodialysis: a preliminary randomized controlled study.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease OR Atrial Fibrillation OR Heart Failure",
+      "intervention": null,
+      "sponsor": "Thongsricome T, Siwamogsatham S, Kositanurit W, Ei",
+      "start_date": "2025-10-08",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Physiology, Faculty of Medicine, Chu",
+      "source_url": "https://europepmc.org/article/MED/41062722",
+      "retrieved_at": "2025-11-09T18:20:55.733884",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "PMC12524559",
+      "title": "Mendelian randomization of autoimmune hepatitis and cardiovascular diseases.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease OR Atrial Fibrillation OR Heart Failure",
+      "intervention": null,
+      "sponsor": "Tang F, Zhao TJ, Dong PW, Sun KD, Sun XB, Wang Q.",
+      "start_date": "2025-09-30",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Gastroenterology, The Affiliated Hos",
+      "source_url": "https://europepmc.org/article/MED/41103357",
+      "retrieved_at": "2025-11-09T18:20:55.733884",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "isrctn61576291",
+      "title": "Rationale, design, and baseline characteristics of the Study assessInG the morbidity-mortality beNefits of the If inhibitor ivabradine in patients with coronarY artery disease (SIGNIFY trial): A randomized, double-blind, placebo-controlled trial of ivabradine in patients with stable coronary artery disease without clinical heart failure",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease Atrial Fibrillation Heart Failure",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2013-10",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.ahj.2013.06.024",
+      "retrieved_at": "2025-11-09T18:20:56.390062",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "nct02642419",
+      "title": "Risk prediction score for clinical outcome in atrial fibrillation and stable coronary artery disease",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease Atrial Fibrillation Heart Failure",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2023-5",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/openhrt-2023-002292",
+      "retrieved_at": "2025-11-09T18:20:56.390062",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "nct02334254",
+      "title": "Rationale and design of the RT-AF study: Combination of rivaroxaban and ticagrelor in patients with atrial fibrillation and coronary artery disease undergoing percutaneous coronary intervention",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease Atrial Fibrillation Heart Failure",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2015-7",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.cct.2015.05.012",
+      "retrieved_at": "2025-11-09T18:20:56.390062",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "nct00047775",
+      "title": "Atrial fibrillation and mortality in African American patients with heart failure: Results from the African American Heart Failure Trial (A-HeFT)",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease Atrial Fibrillation Heart Failure",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2011-7",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.ahj.2011.04.022",
+      "retrieved_at": "2025-11-09T18:20:56.390062",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    },
+    {
+      "nct_id": "nct00376272",
+      "title": "Clinical predictors of atrial fibrillation recurrence in the Gruppo Italiano per lo Studio della Sopravvivenza nell'Infarto Miocardico–Atrial Fibrillation (GISSI-AF) trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Coronary Artery Disease Atrial Fibrillation Heart Failure",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2010-5",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.ahj.2010.02.016",
+      "retrieved_at": "2025-11-09T18:20:56.390062",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Coronary Artery Disease",
+        "Atrial Fibrillation",
+        "Heart Failure"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T18:20:56.852835",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T18:20:56.852835",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T18:20:56.852835",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T18:20:56.852835",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T18:20:56.852835",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "Seminars in Dialysis",
+      "title": "THE CLINICAL EPIDEMIOLOGY OF CARDIOVASCULAR DISEASES IN CHRONIC KIDNEY DISEASE: Clinical Epidemiology of Cardiac Disease in Dialysis Patients: Left Ve",
+      "url": "https://doi.org/10.1046/j.1525-139x.2003.160271.x",
+      "snippet": "<jats:title>ABSTRACT</jats:title>Patients with end‐stage renal disease (ESRD) are at extreme cardiovascular risk. At least half of all patients starting dialysis therapy have overt cardiovascular disease (CVD). In addition, recent studies suggest annual incidence rates for new‐onset cardiac failure,...",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T18:20:57.033985",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "\"Mini-mental state\". A practical method for grading the cognitive state of patients for the clinician.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1202204/",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30207593/",
+      "snippet": "This article provides a status report on the global burden of cancer worldwide using the GLOBOCAN 2018 estimates of cancer incidence and mortality produced by the International Agency for Research on Cancer, with a focus on geographic variability across 20 world regions. There will be an estimated 1...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.",
+      "url": "https://europepmc.org/article/PMC/PMC146917",
+      "snippet": "The BLAST programs are widely used tools for searching protein and DNA databases for sequence similarities. For protein comparisons, a variety of definitional, algorithmic and statistical refinements described here permits the execution time of the BLAST programs to be decreased substantially while ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Hallmarks of cancer: the next generation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21376230/",
+      "snippet": "The hallmarks of cancer comprise six biological capabilities acquired during the multistep development of human tumors. The hallmarks constitute an organizing principle for rationalizing the complexities of neoplastic disease. They include sustaining proliferative signaling, evading growth suppresso...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles.",
+      "url": "https://europepmc.org/article/PMC/PMC1239896",
+      "snippet": "Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement.",
+      "url": "https://europepmc.org/article/PMC/PMC2707599",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "STAR: ultrafast universal RNA-seq aligner.",
+      "url": "https://europepmc.org/article/PMC/PMC3530905",
+      "snippet": "<h4>Motivation</h4>Accurate alignment of high-throughput RNA-seq data is a challenging and yet unsolved problem because of the non-contiguous transcript structure, relatively short read lengths and constantly increasing throughput of the sequencing technologies. Currently available RNA-seq aligners ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Bias in meta-analysis detected by a simple, graphical test.",
+      "url": "https://europepmc.org/article/PMC/PMC2127453",
+      "snippet": "<h4>Objective</h4>Funnel plots (plots of effect estimates against sample size) may be useful to detect bias in meta-analyses that were later contradicted by large trials. We examined whether a simple test of asymmetry of funnel plots predicts discordance of results when meta-analyses are compared to...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Cytoscape: a software environment for integrated models of biomolecular interaction networks.",
+      "url": "https://europepmc.org/article/PMC/PMC403769",
+      "snippet": "Cytoscape is an open source software project for integrating biomolecular interaction networks with high-throughput expression data and other molecular states into a unified conceptual framework. Although applicable to any system of molecular components and interactions, Cytoscape is most powerful w...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A new method of classifying prognostic comorbidity in longitudinal studies: development and validation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3558716/",
+      "snippet": "The objective of this study was to develop a prospectively applicable method for classifying comorbid conditions which might alter the risk of mortality for use in longitudinal studies. A weighted index that takes into account the number and the seriousness of comorbid disease was developed in a coh...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:20:56.054706",
+      "matched_terms": []
+    },
+    {
+      "source": "PubMed",
+      "title": "Coronary flow reserve and cardiovascular outcomes: a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34849697/",
+      "snippet": "Kelshiker MA, Seligman H, Howard JP. Published: 2022 Apr 19",
+      "relevance_score": 0.75,
+      "retrieved_at": "2025-11-09T18:20:57.230569",
+      "matched_terms": []
+    },
+    {
+      "source": "PubMed",
+      "title": "Concomitant Tricuspid Repair in Patients with Degenerative Mitral Regurgitation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34767705/",
+      "snippet": "Gammie JS, Chu MWA, Falk V. Published: 2022 Jan 27",
+      "relevance_score": 0.75,
+      "retrieved_at": "2025-11-09T18:20:57.231556",
+      "matched_terms": []
+    },
+    {
+      "source": "PubMed",
+      "title": "Atrial Shunt Device Effects on Cardiac Structure and Function in Heart Failure With Preserved Ejection Fraction: The REDUCE LAP-HF II Randomized Clini",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38630494/",
+      "snippet": "Patel RB, Silvestry FE, Komtebedde J. Published: 2024 Jun 1",
+      "relevance_score": 0.75,
+      "retrieved_at": "2025-11-09T18:20:57.231556",
+      "matched_terms": []
+    },
+    {
+      "source": "PubMed",
+      "title": "Cardiac hydatid disease; a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37705012/",
+      "snippet": "Banisefid E, Baghernezhad K, Beheshti R. Published: 2023 Sep 13",
+      "relevance_score": 0.75,
+      "retrieved_at": "2025-11-09T18:20:57.231556",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.85,
+  "confidence_level": "High",
+  "report_url": "/api/reports/job_b33c4aba-c785-426f-9fa8-e63cee12a113.pdf",
+  "created_at": "2025-11-09T12:50:49.202277",
+  "completed_at": "2025-11-09T12:51:07.871777"
+}

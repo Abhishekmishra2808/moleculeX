@@ -1,0 +1,445 @@
+{
+  "job_id": "683b0770-45b6-4dfa-bd2a-6c4de0f640a1",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Analysis of 'Which respiratory diseases show low competition but high patient burden in India?' reveals 11 relevant clinical trials, with 0 currently active or recruiting. The competitive landscape shows low competition in India. This represents a significant opportunity for market entry with limited direct competition. Patent analysis identified 5 relevant patents, and web intelligence gathered 19 supporting data points. Patient burden indicators suggest substantial unmet medical need in this therapeutic area.",
+  "key_findings": [
+    "Analysis Confidence: High (1/100) - Based on 11 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12542400",
+      "title": "Efficacy of non-invasive ventilation in chronic obstructive pulmonary disease management: a systematic review and meta-analysis of randomized controlled trials.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Asthma OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Li J, Ran L.",
+      "start_date": "2025-10-22",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Departments of Infectious Diseases, The People's H",
+      "source_url": "https://europepmc.org/article/MED/41126146",
+      "retrieved_at": "2025-11-09T18:17:14.122858",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12357564",
+      "title": "Efficacy and Safety of Guben Kechuan Granules in the Treatment of Chronic Bronchitis: A Multi-Center and Randomized Controlled Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Asthma OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Li D, Shang X, Hong E, Zhu H, Li C, Zhang Y, Du C,",
+      "start_date": "2025-08-12",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Traditional Chinese Medicine for Pul",
+      "source_url": "https://europepmc.org/article/MED/40822380",
+      "retrieved_at": "2025-11-09T18:17:14.122858",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12553194",
+      "title": "Target trial emulation of DPP-4 Inhibitors in patients with T2DM for pulmonary tuberculosis: a nationwide observational data.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Asthma OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Chen YG, Wei JC, Yen FS, Sung CY, Huang YH, Yu TS,",
+      "start_date": "2025-10-24",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "School of Medicine, College of Medicine, Taipei Me",
+      "source_url": "https://europepmc.org/article/MED/41137015",
+      "retrieved_at": "2025-11-09T18:17:14.122858",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12552647",
+      "title": "Longitudinal parametric response mapping on CT in assessing functional small airway disease and emphysema in COPD.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Asthma OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Kim T, Kim Y, Bak SH, Shin SH, Lee HY, Im Y, Choi ",
+      "start_date": "2025-10-24",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Internal Medicine, Kosin University ",
+      "source_url": "https://europepmc.org/article/MED/41136451",
+      "retrieved_at": "2025-11-09T18:17:14.122858",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12540363",
+      "title": "Yiqi Gubiao Pill for tuberculosis-associated obstructive pulmonary disease: protocol for a double-blind randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Asthma OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Dai J, Zhang Y, Su J, Yuan G, Li F, Zhou Z, Aziza,",
+      "start_date": "2025-10-08",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Karamay Integrated Traditional Chinese and Western",
+      "source_url": "https://europepmc.org/article/MED/41132532",
+      "retrieved_at": "2025-11-09T18:17:14.122858",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12482873",
+      "title": "Clinical randomized trial of vitamin D and C supplementation in critically ill patients with respiratory failure.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Asthma OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Velayati A, Vafa M, Yadollahzadeh M, Shariat Panah",
+      "start_date": "2025-09-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Nutrition, School of Public Health, ",
+      "source_url": "https://europepmc.org/article/MED/41023725",
+      "retrieved_at": "2025-11-09T18:17:14.122858",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "nct03739359",
+      "title": "Effects of flow rate on transnasal pulmonary aerosol delivery of bronchodilators via high-flow nasal cannula for patients with COPD and asthma: protocol for a randomised controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Asthma Tuberculosis",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2019-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2018-028584",
+      "retrieved_at": "2025-11-09T18:17:14.685278",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "nct00245908",
+      "title": "Secondary Outcomes of a Pilot Randomized Trial of Azithromycin Treatment for Asthma",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Asthma Tuberculosis",
+      "intervention": null,
+      "sponsor": "Public Library of Science (PLoS)",
+      "start_date": "2006-6-30",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1371/journal.pctr.0010011",
+      "retrieved_at": "2025-11-09T18:17:14.685278",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "nct03449316",
+      "title": "Inhaler technique education in elderly patients with asthma or COPD: impact on disease exacerbations—a protocol for a single-blinded randomised controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Asthma Tuberculosis",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2019-1",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2018-022685",
+      "retrieved_at": "2025-11-09T18:17:14.685278",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "irct2016011325991n1",
+      "title": "Investigating the effectiveness of the Trigonella foenum-graecum L. (fenugreek) seeds in mild asthma: a randomized controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Asthma Tuberculosis",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2018-5-2",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1186/s13223-018-0238-9",
+      "retrieved_at": "2025-11-09T18:17:14.685278",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "nct03277664",
+      "title": "The effect of electronic monitoring combined with weekly feedback and reminders on adherence to inhaled corticosteroids in infants and younger children with asthma: a randomized controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Asthma Tuberculosis",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2020-7-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1186/s13223-020-00466-6",
+      "retrieved_at": "2025-11-09T18:17:14.685278",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Asthma",
+        "Tuberculosis"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T18:17:14.881264",
+      "match_score": 0.2,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T18:17:14.881264",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T18:17:14.881264",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T18:17:14.881264",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T18:17:14.881264",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33538338/",
+      "snippet": "This article provides an update on the global cancer burden using the GLOBOCAN 2020 estimates of cancer incidence and mortality produced by the International Agency for Research on Cancer. Worldwide, an estimated 19.3 million new cancer cases (18.1 million excluding nonmelanoma skin cancer) and almo...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "\"Mini-mental state\". A practical method for grading the cognitive state of patients for the clinician.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1202204/",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30207593/",
+      "snippet": "This article provides a status report on the global burden of cancer worldwide using the GLOBOCAN 2018 estimates of cancer incidence and mortality produced by the International Agency for Research on Cancer, with a focus on geographic variability across 20 world regions. There will be an estimated 1...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.",
+      "url": "https://europepmc.org/article/PMC/PMC146917",
+      "snippet": "The BLAST programs are widely used tools for searching protein and DNA databases for sequence similarities. For protein comparisons, a variety of definitional, algorithmic and statistical refinements described here permits the execution time of the BLAST programs to be decreased substantially while ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Hallmarks of cancer: the next generation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21376230/",
+      "snippet": "The hallmarks of cancer comprise six biological capabilities acquired during the multistep development of human tumors. The hallmarks constitute an organizing principle for rationalizing the complexities of neoplastic disease. They include sustaining proliferative signaling, evading growth suppresso...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Fiji: an open-source platform for biological-image analysis.",
+      "url": "https://europepmc.org/article/PMC/PMC3855844",
+      "snippet": "Fiji is a distribution of the popular open-source software ImageJ focused on biological-image analysis. Fiji uses modern software engineering practices to combine powerful software libraries with a broad range of scripting languages to enable rapid prototyping of image-processing algorithms. Fiji fa...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles.",
+      "url": "https://europepmc.org/article/PMC/PMC1239896",
+      "snippet": "Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement.",
+      "url": "https://europepmc.org/article/PMC/PMC2707599",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "STAR: ultrafast universal RNA-seq aligner.",
+      "url": "https://europepmc.org/article/PMC/PMC3530905",
+      "snippet": "<h4>Motivation</h4>Accurate alignment of high-throughput RNA-seq data is a challenging and yet unsolved problem because of the non-contiguous transcript structure, relatively short read lengths and constantly increasing throughput of the sequencing technologies. Currently available RNA-seq aligners ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Bias in meta-analysis detected by a simple, graphical test.",
+      "url": "https://europepmc.org/article/PMC/PMC2127453",
+      "snippet": "<h4>Objective</h4>Funnel plots (plots of effect estimates against sample size) may be useful to detect bias in meta-analyses that were later contradicted by large trials. We examined whether a simple test of asymmetry of funnel plots predicts discordance of results when meta-analyses are compared to...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:17:14.910844",
+      "matched_terms": []
+    },
+    {
+      "source": "Pulmonary Medicine",
+      "title": "Rheumatoid Arthritis-Associated Interstitial Lung Disease: Diagnostic Dilemma",
+      "url": "https://doi.org/10.1155/2011/872120",
+      "snippet": "Interstitial lung disease (ILD) is an increasingly recognized complication of rheumatoid arthritis (RA) contributing to significantly increased morbidity and mortality. Diagnosis can be challenging since patients are unlikely to report dyspnea due to an overall decrease in physical activity with adv...",
+      "relevance_score": 0.73,
+      "retrieved_at": "2025-11-09T18:17:15.186270",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Medicine Insights: Circulatory, Respiratory and Pulmonary Medicine",
+      "title": "Up-to-Date Information on Rheumatoid Arthritis-Associated Interstitial Lung Disease",
+      "url": "https://doi.org/10.4137/ccrpm.s23289",
+      "snippet": " Pulmonary involvement is common in rheumatoid arthritis (RA) and affects all the components of the lung. Interstitial lung disease (ILD) is the most predominant pulmonary manifestation and has been identified as the main cause of morbidity and mortality in RA. Clinically significant RA-ILD occurs i...",
+      "relevance_score": 0.56,
+      "retrieved_at": "2025-11-09T18:17:15.186270",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Medicine Insights: Circulatory, Respiratory and Pulmonary Medicine",
+      "title": "Management of Rheumatoid Arthritis Patients with Interstitial Lung Disease: Safety of Biological Antirheumatic Drugs and Assessment of Pulmonary Fibro",
+      "url": "https://doi.org/10.4137/ccrpm.s23288",
+      "snippet": " Interstitial lung disease (ILD) is one of the major causes of morbidity and mortality of patients with rheumatoid arthritis (RA). Accompanying the increased number of reports on the development or exacerbation of ILD in RA patients following therapy with biological disease-modifying antirheumatic d...",
+      "relevance_score": 0.55,
+      "retrieved_at": "2025-11-09T18:17:15.186270",
+      "matched_terms": []
+    },
+    {
+      "source": "Biomedical Science and Clinical Research",
+      "title": "Prevalence of Hypothyroidism in Rheumatoid Arthritis and its Correlation with Disease Activity",
+      "url": "https://doi.org/10.33140/bscr.02.01.02",
+      "snippet": "Background: Several recent studies have shown an increased incidence of hypothyroidism in many chronic in ammatory diseases, especially rheumatoid arthritis, and others studies have shown a relationship between hypothyroidism in patients with rheumatoid disease and the degree of disease activity. Ai...",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T18:17:15.186270",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "snippet": "\"Wuhan pneumonia\". In the past, many diseases have been named after geographical locations, such as the Spanish flu, Middle East respiratory syndrome, and",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T18:17:14.703370",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.85,
+  "confidence_level": "High",
+  "report_url": "/api/reports/job_683b0770-45b6-4dfa-bd2a-6c4de0f640a1.pdf",
+  "created_at": "2025-11-09T12:47:07.673342",
+  "completed_at": "2025-11-09T12:47:26.177189"
+}

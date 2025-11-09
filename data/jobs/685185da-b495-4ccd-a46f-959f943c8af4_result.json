@@ -1,0 +1,445 @@
+{
+  "job_id": "685185da-b495-4ccd-a46f-959f943c8af4",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Analysis of 'Which respiratory diseases show low competition but high patient burden in India?' reveals 11 relevant clinical trials, with 0 currently active or recruiting. The competitive landscape shows low competition in India. This represents a significant opportunity for market entry with limited direct competition. Patent analysis identified 5 relevant patents, and web intelligence gathered 19 supporting data points. Patient burden indicators suggest substantial unmet medical need in this therapeutic area.",
+  "key_findings": [
+    "Analysis Confidence: High (1/100) - Based on 11 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12581411",
+      "title": "The effect of Baduanjin exercises on the functional capacity, respiratory function, and quality of life of patients with idiopathic pulmonary fibrosis: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease OR Asthma OR COPD",
+      "intervention": null,
+      "sponsor": "Atmaca SN, Demir R, Mustafaoğlu R, Atahan E.",
+      "start_date": "2025-11-03",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Physiotherapy and Rehabilitation, Fa",
+      "source_url": "https://europepmc.org/article/MED/41184899",
+      "retrieved_at": "2025-11-09T18:13:43.887507",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "PMC12466979",
+      "title": "Mindfulness-Based Interventions for Chronic Pulmonary Diseases: A Systematic Review of Effects on Anxiety, Depression, Stress, Dyspnea, and Quality of Life.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease OR Asthma OR COPD",
+      "intervention": null,
+      "sponsor": "Bramanti A, Pessolano C, Garofano M, Maglio AA, Ci",
+      "start_date": "2025-08-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Medicine, Surgery and Dentistry, Uni",
+      "source_url": "https://europepmc.org/article/MED/41007176",
+      "retrieved_at": "2025-11-09T18:13:43.887507",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "PMC12590568",
+      "title": "Effectiveness of a mobile respiratory trainer (AiroFit PRO&lt;sup&gt;™&lt;/sup&gt;) in ankylosing spondylitis: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease OR Asthma OR COPD",
+      "intervention": null,
+      "sponsor": "Uçar Baytaroğlu İM, Karahan AY.",
+      "start_date": "2025-11-05",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Rheumatology, Uşak Training and Rese",
+      "source_url": "https://europepmc.org/article/MED/41190581",
+      "retrieved_at": "2025-11-09T18:13:43.887507",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "PMC12525452",
+      "title": "Intra- and Inter-Rater Reproducibility of Measures of Physical Performance in Patients with COPD.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease OR Asthma OR COPD",
+      "intervention": null,
+      "sponsor": "Nielsen C, Godtfredsen N, Molsted S, Ulrik C, Hans",
+      "start_date": "2025-09-24",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Respiratory Research Unit Hvidovre and Department ",
+      "source_url": "https://europepmc.org/article/MED/41095835",
+      "retrieved_at": "2025-11-09T18:13:43.887507",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "PMC12572206",
+      "title": "Common genetic variation influencing the human lung imaging phenotypes.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease OR Asthma OR COPD",
+      "intervention": null,
+      "sponsor": "Zhu M, Du L, Shi L, Ji C, Zhu C, Song C, Wu L, Zhu",
+      "start_date": "2025-10-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Epidemiology, Center for Global Heal",
+      "source_url": "https://europepmc.org/article/MED/41162389",
+      "retrieved_at": "2025-11-09T18:13:43.887507",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "PMC12518849",
+      "title": "Association between glucagon-like peptide-1 receptor agonist therapy and respiratory illness in patients with type 2 diabetes: a retrospective observational cohort study.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease OR Asthma OR COPD",
+      "intervention": null,
+      "sponsor": "Ho LT, Fang YW, Hsu PS, Wang JT, Tsai MH.",
+      "start_date": "2025-10-13",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of General Medicine, Shin Kong Wu Ho-Su",
+      "source_url": "https://europepmc.org/article/MED/41083699",
+      "retrieved_at": "2025-11-09T18:13:43.887507",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "nct06767904",
+      "title": "Comparing the efficacy of exertional oxygen delivery by continuous versus demand-based flow systems during 6-minute walk test in patients with fibrotic interstitial lung disease and COPD in a hospital setting (OXYCODE): a protocol for a randomised trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease Asthma COPD",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2025-5",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2025-099664",
+      "retrieved_at": "2025-11-09T18:13:44.580959",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "nct03449316",
+      "title": "Inhaler technique education in elderly patients with asthma or COPD: impact on disease exacerbations—a protocol for a single-blinded randomised controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease Asthma COPD",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2019-1",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2018-022685",
+      "retrieved_at": "2025-11-09T18:13:44.580959",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "nct05321082",
+      "title": "POS1300 DEMOGRAPHICS AND BASELINE CHARACTERISTICS OF PATIENTS WITH AUTOIMMUNE DISEASE INTERSTITIAL LUNG DISEASE ENROLLED IN THE FIBRONEER-ILD TRIAL OF BI 1015550",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease Asthma COPD",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2024-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/annrheumdis-2024-eular.1765",
+      "retrieved_at": "2025-11-09T18:13:44.580959",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "nct02597933",
+      "title": "Nailfold capillaroscopy in patients with systemic sclerosis-associated interstitial lung disease: a substudy of the SENSCIS trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease Asthma COPD",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2025-10",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/rmdopen-2025-005704",
+      "retrieved_at": "2025-11-09T18:13:44.580959",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    },
+    {
+      "nct_id": "nct02896205",
+      "title": "FRI0445 A randomised controlled trial to compare the efficacy of oral mycophenolate mofetil with placebo in patients with systemic sclerosis related early interstitial lung disease",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Interstitial Lung Disease Asthma COPD",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2018-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/annrheumdis-2018-eular.4673",
+      "retrieved_at": "2025-11-09T18:13:44.580959",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Interstitial Lung Disease",
+        "Asthma",
+        "COPD"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T18:13:44.821917",
+      "match_score": 0.2,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T18:13:44.821917",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T18:13:44.821917",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T18:13:44.821917",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T18:13:44.821917",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3358796/",
+      "snippet": "The revised criteria for the classification of rheumatoid arthritis (RA) were formulated from a computerized analysis of 262 contemporary, consecutively studied patients with RA and 262 control subjects with rheumatic diseases other than RA (non-RA). The new criteria are as follows: 1) morning stiff...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Inflammation and cancer.",
+      "url": "https://europepmc.org/article/PMC/PMC2803035",
+      "snippet": "Recent data have expanded the concept that inflammation is a critical component of tumour progression. Many cancers arise from sites of infection, chronic irritation and inflammation. It is now becoming clear that the tumour microenvironment, which is largely orchestrated by inflammatory cells, is a...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease S...",
+      "url": "https://europepmc.org/article/PMC/PMC10790329",
+      "snippet": "<h4>Background</h4>Reliable and timely information on the leading causes of death in populations, and how these are changing, is a crucial input into health policy debates. In the Global Burden of Diseases, Injuries, and Risk Factors Study 2010 (GBD 2010), we aimed to estimate annual deaths for the ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territori...",
+      "url": "https://europepmc.org/article/PMC/PMC6227754",
+      "snippet": "<h4>Background</h4>The Global Burden of Diseases, Injuries, and Risk Factors Study 2017 (GBD 2017) includes a comprehensive assessment of incidence, prevalence, and years lived with disability (YLDs) for 354 causes in 195 countries and territories from 1990 to 2017. Previous GBD studies have shown h...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Apoptosis: a review of programmed cell death.",
+      "url": "https://europepmc.org/article/PMC/PMC2117903",
+      "snippet": "The process of programmed cell death, or apoptosis, is generally characterized by distinct morphological characteristics and energy-dependent biochemical mechanisms. Apoptosis is considered a vital component of various processes including normal cell turnover, proper development and functioning of t...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Radiological assessment of osteo-arthrosis.",
+      "url": "https://europepmc.org/article/PMC/PMC1006995",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age.",
+      "url": "https://europepmc.org/article/PMC/PMC4380465",
+      "snippet": "Cathie Sudlow and colleagues describe the UK Biobank, a large population-based prospective study, established to allow investigation of the genetic and non-genetic determinants of the diseases of middle and old age.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Immunity, inflammation, and cancer.",
+      "url": "https://europepmc.org/article/PMC/PMC2866629",
+      "snippet": "Inflammatory responses play decisive roles at different stages of tumor development, including initiation, promotion, malignant conversion, invasion, and metastasis. Inflammation also affects immune surveillance and responses to therapy. Immune cells that infiltrate tumors engage in an extensive and...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Sarcopenia: European consensus on definition and diagnosis: Report of the European Working Group on Sarcopenia in Older People.",
+      "url": "https://europepmc.org/article/PMC/PMC2886201",
+      "snippet": "The European Working Group on Sarcopenia in Older People (EWGSOP) developed a practical clinical definition and consensus diagnostic criteria for age-related sarcopenia. EWGSOP included representatives from four participant organisations, i.e. the European Geriatric Medicine Society, the European So...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Free radicals and antioxidants in normal physiological functions and human disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16978905/",
+      "snippet": "Reactive oxygen species (ROS) and reactive nitrogen species (RNS, e.g. nitric oxide, NO(*)) are well recognised for playing a dual role as both deleterious and beneficial species. ROS and RNS are normally generated by tightly regulated enzymes, such as NO synthase (NOS) and NAD(P)H oxidase isoforms,...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:13:44.747287",
+      "matched_terms": []
+    },
+    {
+      "source": "Pulmonary Medicine",
+      "title": "Rheumatoid Arthritis-Associated Interstitial Lung Disease: Diagnostic Dilemma",
+      "url": "https://doi.org/10.1155/2011/872120",
+      "snippet": "Interstitial lung disease (ILD) is an increasingly recognized complication of rheumatoid arthritis (RA) contributing to significantly increased morbidity and mortality. Diagnosis can be challenging since patients are unlikely to report dyspnea due to an overall decrease in physical activity with adv...",
+      "relevance_score": 0.73,
+      "retrieved_at": "2025-11-09T18:13:45.496538",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Medicine Insights: Circulatory, Respiratory and Pulmonary Medicine",
+      "title": "Up-to-Date Information on Rheumatoid Arthritis-Associated Interstitial Lung Disease",
+      "url": "https://doi.org/10.4137/ccrpm.s23289",
+      "snippet": " Pulmonary involvement is common in rheumatoid arthritis (RA) and affects all the components of the lung. Interstitial lung disease (ILD) is the most predominant pulmonary manifestation and has been identified as the main cause of morbidity and mortality in RA. Clinically significant RA-ILD occurs i...",
+      "relevance_score": 0.56,
+      "retrieved_at": "2025-11-09T18:13:45.496538",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Medicine Insights: Circulatory, Respiratory and Pulmonary Medicine",
+      "title": "Management of Rheumatoid Arthritis Patients with Interstitial Lung Disease: Safety of Biological Antirheumatic Drugs and Assessment of Pulmonary Fibro",
+      "url": "https://doi.org/10.4137/ccrpm.s23288",
+      "snippet": " Interstitial lung disease (ILD) is one of the major causes of morbidity and mortality of patients with rheumatoid arthritis (RA). Accompanying the increased number of reports on the development or exacerbation of ILD in RA patients following therapy with biological disease-modifying antirheumatic d...",
+      "relevance_score": 0.55,
+      "retrieved_at": "2025-11-09T18:13:45.496538",
+      "matched_terms": []
+    },
+    {
+      "source": "Journal of Clinical Medicine",
+      "title": "Moving forward in Rheumatoid Arthritis-Associated Interstitial Lung Disease Screening",
+      "url": "https://doi.org/10.3390/jcm13185385",
+      "snippet": "Patients with rheumatoid arthritis (RA) are at increased risk of developing interstitial lung disease compared to the general population, a complication that is associated with significant morbidity and high mortality. Given its frequency and severity, ILD should always be considered during both the...",
+      "relevance_score": 0.52,
+      "retrieved_at": "2025-11-09T18:13:45.496538",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "snippet": "\"Wuhan pneumonia\". In the past, many diseases have been named after geographical locations, such as the Spanish flu, Middle East respiratory syndrome, and",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T18:13:44.577966",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.85,
+  "confidence_level": "High",
+  "report_url": "/api/reports/job_685185da-b495-4ccd-a46f-959f943c8af4.pdf",
+  "created_at": "2025-11-09T12:43:32.957134",
+  "completed_at": "2025-11-09T12:43:54.566243"
+}

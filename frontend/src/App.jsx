@@ -8,7 +8,7 @@ import AnimatedBackground from './components/AnimatedBackground'
 import Footer from './components/Footer'
 import LandingPage from './components/landing/LandingPage'
 import { submitQuery, getJobStatus, getJobResult } from './api/client'
-import useWebSocket from './hooks/useWebSocket'
+import useSSE from './hooks/useSSE'
 
 function App() {
   const [showLanding, setShowLanding] = useState(true)
@@ -20,17 +20,26 @@ function App() {
   const [status, setStatus] = useState('idle')
   const [reportUrl, setReportUrl] = useState(null)
   const [results, setResults] = useState(null)
+  const [isFetchingResults, setIsFetchingResults] = useState(false)
 
   const pollIntervalRef = useRef(null)
   const pollTimeoutRef = useRef(null)
 
-  useWebSocket(jobId, (message) => {
+  useSSE(jobId, (message) => {
     const { event_type, data } = message ?? {}
 
     switch (event_type) {
       case 'job_started':
         setIsProcessing(true)
         setStatus('running')
+        break
+
+      case 'progress_update':
+        // Handle incremental progress updates
+        if (data?.progress) setProgress(data.progress)
+        if (data?.message) {
+          console.log('📊 Progress:', data.message)
+        }
         break
 
       case 'agent_update':
@@ -49,13 +58,28 @@ function App() {
         break
 
       case 'job_completed': {
+        console.log('🎉 Job completed, fetching results...')
         setStatus('completed')
         setIsProcessing(false)
         setProgress(100)
         if (data?.report_url) setReportUrl(data.report_url)
         const jId = data?.job_id ?? jobId
-        if (jId) fetchResults(jId)
         clearPolling()
+        // Fetch results immediately and wait for completion
+        if (jId) {
+          fetchResults(jId).then((resultData) => {
+            if (resultData) {
+              console.log('✅ Results fetched and displayed successfully')
+            } else {
+              console.warn('⚠️ No results returned, trying again in 2s...')
+              setTimeout(() => fetchResults(jId), 2000)
+            }
+          }).catch(err => {
+            console.error('❌ Error fetching results:', err)
+            // Retry once
+            setTimeout(() => fetchResults(jId), 2000)
+          })
+        }
         break
       }
 
@@ -87,12 +111,33 @@ function App() {
   }
 
   const fetchResults = async (jId) => {
+    if (isFetchingResults) {
+      console.log('⚠️ Already fetching results, skipping...')
+      return
+    }
+    
     try {
+      console.log('📥 Fetching results for job:', jId)
+      setIsFetchingResults(true)
       const data = await getJobResult(jId)
+      
+      // Log data size for debugging
+      const dataSize = JSON.stringify(data).length
+      console.log('✅ Results received:', {
+        size: `${(dataSize / 1024).toFixed(2)} KB`,
+        trials: data.clinical_trials?.length || 0,
+        patents: data.patents?.length || 0,
+        literature: data.web_intel?.length || 0
+      })
+      
       setResults(data)
       if (data?.report_url) setReportUrl(data.report_url)
+      return data
     } catch (err) {
-      console.error('Error fetching results:', err)
+      console.error('❌ Error fetching results:', err)
+      // Don't throw, just log - this prevents the UI from breaking
+    } finally {
+      setIsFetchingResults(false)
     }
   }
 
@@ -136,9 +181,17 @@ function App() {
         if (data.status) setStatus(data.status)
 
         if (data.status === 'completed') {
+          console.log('📊 Polling detected job completion')
           clearPolling()
           setIsProcessing(false)
-          await fetchResults(jId)
+          setProgress(100)
+          // Fetch results immediately - this is the backup mechanism
+          if (!results) {  // Only fetch if not already loaded by SSE
+            console.log('📥 Polling triggering result fetch...')
+            await fetchResults(jId)
+          } else {
+            console.log('✓ Results already loaded via SSE')
+          }
         } else if (data.status === 'failed') {
           clearPolling()
           setIsProcessing(false)
@@ -165,6 +218,7 @@ function App() {
     setStatus('idle')
     setReportUrl(null)
     setResults(null)
+    setIsFetchingResults(false)
   }
 
   const scrollToQuery = () => {
@@ -343,7 +397,40 @@ function App() {
 
                 <div className="lg:col-span-7">
                   <div className="space-y-6">
-                    {status === 'completed' && results && <ResultsPanel results={results} />}
+                    {status === 'completed' && !results && isFetchingResults && (
+                      <motion.div 
+                        initial={{ opacity: 0 }} 
+                        animate={{ opacity: 1 }}
+                        className="backdrop-blur-glass bg-white/70 rounded-3xl shadow-apple border border-white/30 p-8"
+                      >
+                        <div className="flex items-center justify-center gap-3">
+                          <motion.div 
+                            animate={{ rotate: 360 }} 
+                            transition={{ duration: 1, repeat: Infinity, ease: 'linear' }}
+                            className="w-6 h-6 border-3 border-purple-500 border-t-transparent rounded-full"
+                          />
+                          <span className="text-lg font-medium text-gray-700">Loading results...</span>
+                        </div>
+                      </motion.div>
+                    )}
+                    {status === 'completed' && !results && !isFetchingResults && (
+                      <motion.div 
+                        initial={{ opacity: 0 }} 
+                        animate={{ opacity: 1 }}
+                        className="backdrop-blur-glass bg-white/70 rounded-3xl shadow-apple border border-white/30 p-8"
+                      >
+                        <div className="text-center">
+                          <p className="text-lg font-medium text-gray-700 mb-4">⚠️ Results not loaded yet</p>
+                          <button 
+                            onClick={() => fetchResults(jobId)}
+                            className="px-6 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition"
+                          >
+                            Retry Loading Results
+                          </button>
+                        </div>
+                      </motion.div>
+                    )}
+                    {results && <ResultsPanel results={results} />}
                     {reportUrl && <ReportDownload reportUrl={reportUrl} jobId={jobId} />}
                   </div>
                 </div>

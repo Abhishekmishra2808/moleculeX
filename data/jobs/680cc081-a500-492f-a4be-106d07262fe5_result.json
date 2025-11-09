@@ -1,0 +1,444 @@
+{
+  "job_id": "680cc081-a500-492f-a4be-106d07262fe5",
+  "query": "Show me clinical trials for diabetes treatments with less than 5 active competitors",
+  "status": "completed",
+  "executive_summary": "Despite identifying 11 clinical trials focusing on diabetes treatments with limited direct competition, all are currently inactive or not recruiting, suggesting an underserved area ripe for innovation. The presence of 5 relevant patents and 19 scientific publications underscores a foundation of existing research and intellectual property that could be leveraged for novel therapeutic approaches, particularly within the SGLT2 inhibitor and GLP-1 receptor agonist categories. This presents a unique opportunity to enter a market with potentially high unmet need and relatively low competitive pressure, contingent on reactivating stalled research or initiating new clinical programs.",
+  "key_findings": [
+    "Analysis Confidence: Medium (1/100) - Based on 11 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "nct05914857",
+      "title": "Evaluating the Safety and Efficacy of Sodium-Glucose Co-transporter 2 Inhibitors in Subjects with Prediabetes: A Protocol for a Randomized Controlled Trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes Prediabetes Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2024-3-18",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1007/s13300-024-01560-3",
+      "retrieved_at": "2025-11-09T17:54:43.142061",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "nct05765292",
+      "title": "Probiotic for Pancreatic β-Cell Function in Type 2 Diabetes: A Randomized, Double-Blinded, Placebo-Controlled Clinical Trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes Prediabetes Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2023-9-15",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1007/s13300-023-01474-6",
+      "retrieved_at": "2025-11-09T17:54:43.142061",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "nct00696657",
+      "title": "Liraglutide for the Treatment of Type 2 Diabetes and Safety in Diabetic Kidney Disease",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes Prediabetes Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Ovid Technologies (Wolters Kluwer Health)",
+      "start_date": "2020-3-4",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.2215/cjn.01260120",
+      "retrieved_at": "2025-11-09T17:54:43.142061",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "nct02226510",
+      "title": "The Effect of Metformin and Dapagliflozin on Epicardial Adipose Tissue in Prediabetes and Type 2 Diabetic Patients",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes Prediabetes Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "American Diabetes Association",
+      "start_date": "2018-7-1",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.2337/db18-1238-p",
+      "retrieved_at": "2025-11-09T17:54:43.142061",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "nct00997178",
+      "title": "Design features of the Diabetes and Periodontal Therapy Trial (DPTT): A multicenter randomized single-masked clinical trial testing the effect of nonsurgical periodontal therapy on glycosylated hemoglobin (HbA1c) levels in subjects with type 2 diabetes and chronic periodontitis",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes Prediabetes Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2013-11",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.cct.2013.09.010",
+      "retrieved_at": "2025-11-09T17:54:43.142061",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "PMC12481776",
+      "title": "The efficacy and safety of herbal medicines for glycaemic control and insulin resistance in individuals with type 2 diabetes: an umbrella review.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes OR Prediabetes OR Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Li E, Maunder A, Liu J, Pandey C, Cave A, O'Fee A,",
+      "start_date": "2025-09-30",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "School of Medicine, Western Sydney University, Pen",
+      "source_url": "https://europepmc.org/article/MED/41029669",
+      "retrieved_at": "2025-11-09T17:54:43.144061",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "PMC12235772",
+      "title": "Effects of physical activity on visual outcomes among type 2 diabetes patients: protocol for a scoping review of randomized controlled trials.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes OR Prediabetes OR Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Antiri EO, Hormenu T, Ocansey S, Ansah EW.",
+      "start_date": "2025-07-08",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Health, Physical Education and Recre",
+      "source_url": "https://europepmc.org/article/MED/40629479",
+      "retrieved_at": "2025-11-09T17:54:43.144061",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "PMC12459596",
+      "title": "Cognitive and motor dual-task performance in older adults with prediabetes and type 2 diabetes mellitus: A cross-sectional study.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes OR Prediabetes OR Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Mermerkaya G, Mermerkaya HH, Ozkan Sevencan N, Var",
+      "start_date": "2025-09-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Therapy and Rehabilitation, Vocation",
+      "source_url": "https://europepmc.org/article/MED/40988205",
+      "retrieved_at": "2025-11-09T17:54:43.144061",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "PMC12451836",
+      "title": "Longitudinal Metabolic Trajectories in Diabetes Prevention Program Participants Reveal Subgroups With Varying Micro- and Macrovascular Complication Risks.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes OR Prediabetes OR Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Kobayashi E, Linden-Santangeli NJ, Chan N, Toomey ",
+      "start_date": "2025-10-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Bioinformatics and Systems Biology Graduate Progra",
+      "source_url": "https://europepmc.org/article/MED/40857122",
+      "retrieved_at": "2025-11-09T17:54:43.144061",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "PMC12257117",
+      "title": "The Impact of Diabetes and Metabolic Syndrome Burden on Pain, Neuropathy Severity and Fiber Type.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes OR Prediabetes OR Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Davalos L, Callaghan BC, Muthukumar L, Thomas S, R",
+      "start_date": "2025-05-19",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Neurology, Kansas University Medical",
+      "source_url": "https://europepmc.org/article/MED/40386990",
+      "retrieved_at": "2025-11-09T17:54:43.144061",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    },
+    {
+      "nct_id": "PMC12111914",
+      "title": "Bowel Preparation for Colonoscopy in Patients with Diabetes Mellitus-A Gap We Have to Bridge: A Review.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Type 1 Diabetes OR Prediabetes OR Diabetic Neuropathies",
+      "intervention": null,
+      "sponsor": "Jukic I, Vukovic J.",
+      "start_date": "2025-05-11",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Gastroenterology and Hepatology, Uni",
+      "source_url": "https://europepmc.org/article/MED/40429332",
+      "retrieved_at": "2025-11-09T17:54:43.144061",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Type 1 Diabetes",
+        "Prediabetes",
+        "Diabetic Neuropathies"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:54:44.339985",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:54:44.339985",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:54:44.339985",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:54:44.339985",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:54:44.339985",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "Diabetes",
+      "title": "380-P: Towards Prevention of Nonsevere Hypoglycemia in Type 1 Diabetes with Oral Glucose at a Higher Blood Glucose Threshold—The REVERSIBLE Trial",
+      "url": "https://doi.org/10.2337/db23-380-p",
+      "snippet": "Background: Current guidelines recommend initiating the treatment of non-severe (NS) hypoglycemia with 15g of carbohydrates (CHO) at 15 minutes intervals when blood glucose (BG) reaches &amp;lt;72 mg/dl. Despite this recommendation, NS hypoglycemia management remains challenging for people living wi...",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:54:44.495873",
+      "matched_terms": []
+    },
+    {
+      "source": "Diabetes mellitus",
+      "title": "Prognostic consequence of hyperglycemia points in oral glucose intolerance test for the course and outcomes of pregnancy in women with gestational dia",
+      "url": "https://doi.org/10.14341/dm13143",
+      "snippet": "<jats:bold>BACKGROUND</jats:bold>: The level of glycemia at different points of the glucose tolerance test measure different phases of insulin secretion, accordingly the groups of pregnant women with GDM diagnosed at different points of the test have differences.<jats:bold>AIM</jats:bold>: to evalua...",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:54:44.495873",
+      "matched_terms": []
+    },
+    {
+      "source": "Diabetes",
+      "title": "A Rapid Bedside Method of Monitoring Blood Glucose in Diabetic Hyperglycemia",
+      "url": "https://doi.org/10.2337/diab.17.6.402",
+      "snippet": "A rapid bedside method is described for estimating blood glucose levels in the range 200 to 2,000 mg. per 100 ml. The method employs Dextrostix and a dilution technic using a Mantoux syringe and isotonic saline.",
+      "relevance_score": 0.51,
+      "retrieved_at": "2025-11-09T17:54:44.495873",
+      "matched_terms": []
+    },
+    {
+      "source": "Diabetes, Obesity and Metabolism",
+      "title": "Antidiabetic effect of diasulin, a herbal drug, on blood glucose, plasma insulin and hepatic enzymes of glucose metabolism in hyperglycaemic rats",
+      "url": "https://doi.org/10.1111/j.1462-8902.2004.0349.x",
+      "snippet": "\n                    <jats:bold>Aim: </jats:bold>\n                    The present study was designed to investigate the effect of diasulin, a polyherbal drug, on blood glucose, plasma insulin and the activities of hepatic glucose metabolic enzymes in alloxan‐induced diabetic rats.\n                  ...",
+      "relevance_score": 0.77,
+      "retrieved_at": "2025-11-09T17:54:44.495873",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American Diabetes Association (ADA) and the ...",
+      "url": "https://europepmc.org/article/PMC/PMC3357214",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.051132",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Inflammation, stress, and diabetes.",
+      "url": "https://europepmc.org/article/PMC/PMC1087185",
+      "snippet": "Over the last decade, an abundance of evidence has emerged demonstrating a close link between metabolism and immunity. It is now clear that obesity is associated with a state of chronic low-level inflammation. In this article, we discuss the molecular and cellular underpinnings of obesity-induced in...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.051132",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Inflammation and insulin resistance.",
+      "url": "https://europepmc.org/article/PMC/PMC1483173",
+      "snippet": "Over a hundred years ago, high doses of salicylates were shown to lower glucose levels in diabetic patients. This should have been an important clue to link inflammation to the pathogenesis of type 2 diabetes (T2D), but the antihyperglycemic and antiinflammatory effects of salicylates were not conne...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.051132",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Adiponectin stimulates glucose utilization and fatty-acid oxidation by activating AMP-activated protein kinase.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12368907/",
+      "snippet": "Adiponectin (Ad) is a hormone secreted by adipocytes that regulates energy homeostasis and glucose and lipid metabolism. However, the signaling pathways that mediate the metabolic effects of Ad remain poorly identified. Here we show that phosphorylation and activation of the 5'-AMP-activated protein...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.051132",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Obesity is associated with macrophage accumulation in adipose tissue.",
+      "url": "https://europepmc.org/article/PMC/PMC296995",
+      "snippet": "Obesity alters adipose tissue metabolic and endocrine function and leads to an increased release of fatty acids, hormones, and proinflammatory molecules that contribute to obesity associated complications. To further characterize the changes that occur in adipose tissue with increasing adiposity, we...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.049134",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "mTOR signaling in growth control and disease.",
+      "url": "https://europepmc.org/article/PMC/PMC3331679",
+      "snippet": "The mechanistic target of rapamycin (mTOR) signaling pathway senses and integrates a variety of environmental cues to regulate organismal growth and homeostasis. The pathway regulates many major cellular processes and is implicated in an increasing number of pathological conditions, including cancer...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.049134",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The Danish National Patient Registry: a review of content, data quality, and research potential.",
+      "url": "https://europepmc.org/article/PMC/PMC4655913",
+      "snippet": "<h4>Background</h4>The Danish National Patient Registry (DNPR) is one of the world's oldest nationwide hospital registries and is used extensively for research. Many studies have validated algorithms for identifying health events in the DNPR, but the reports are fragmented and no overview exists.<h4...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.049134",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC12135016",
+      "snippet": "<h4>Background</h4>The American Heart Association, in conjunction with the National Institutes of Health, annually reports the most up-to-date statistics related to heart disease, stroke, and cardiovascular risk factors, including core health behaviors (smoking, physical activity, diet, and weight) ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.051132",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Natural products as sources of new drugs over the 30 years from 1981 to 2010.",
+      "url": "https://europepmc.org/article/PMC/PMC3721181",
+      "snippet": "This review is an updated and expanded version of the three prior reviews that were published in this journal in 1997, 2003, and 2007. In the case of all approved therapeutic agents, the time frame has been extended to cover the 30 years from January 1, 1981, to December 31, 2010, for all diseases w...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.051132",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Flavonoids: an overview.",
+      "url": "https://europepmc.org/article/PMC/PMC5465813",
+      "snippet": "Flavonoids, a group of natural substances with variable phenolic structures, are found in fruits, vegetables, grains, bark, roots, stems, flowers, tea and wine. These natural products are well known for their beneficial effects on health and efforts are being made to isolate the ingredients so calle...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:54:44.051132",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "Rosiglitazone",
+      "url": "https://en.wikipedia.org/?curid=604046",
+      "snippet": "control. It contained 42 trials of which 27 were unpublished. Another meta analysis of 4 trials with follow-up longer than 1 year found similar results",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T17:54:43.996590",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.72,
+  "confidence_level": "Medium",
+  "report_url": "/api/reports/job_680cc081-a500-492f-a4be-106d07262fe5.pdf",
+  "created_at": "2025-11-09T12:24:35.441966",
+  "completed_at": "2025-11-09T12:25:00.744580"
+}

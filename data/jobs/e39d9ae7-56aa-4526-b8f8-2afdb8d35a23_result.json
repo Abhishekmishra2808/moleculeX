@@ -1,0 +1,513 @@
+{
+  "job_id": "e39d9ae7-56aa-4526-b8f8-2afdb8d35a23",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Analysis of respiratory diseases in India reveals a compelling opportunity: diseases exhibiting high patient burden but low competitive intensity, as evidenced by limited clinical trial activity, few patents, and moderate publication volume. These indications represent an underserved market with significant unmet medical needs. Strategic focus on these areas could yield substantial market penetration with innovative therapies.",
+  "key_findings": [
+    "Analysis Confidence: Medium (1/100) - Based on 17 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12581411",
+      "title": "The effect of Baduanjin exercises on the functional capacity, respiratory function, and quality of life of patients with idiopathic pulmonary fibrosis: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis OR Interstitial Lung Disease OR Asthma",
+      "intervention": null,
+      "sponsor": "Atmaca SN, Demir R, Mustafaoğlu R, Atahan E.",
+      "start_date": "2025-11-03",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Physiotherapy and Rehabilitation, Fa",
+      "source_url": "https://europepmc.org/article/MED/41184899",
+      "retrieved_at": "2025-11-09T17:52:54.913987",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12466979",
+      "title": "Mindfulness-Based Interventions for Chronic Pulmonary Diseases: A Systematic Review of Effects on Anxiety, Depression, Stress, Dyspnea, and Quality of Life.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis OR Interstitial Lung Disease OR Asthma",
+      "intervention": null,
+      "sponsor": "Bramanti A, Pessolano C, Garofano M, Maglio AA, Ci",
+      "start_date": "2025-08-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Medicine, Surgery and Dentistry, Uni",
+      "source_url": "https://europepmc.org/article/MED/41007176",
+      "retrieved_at": "2025-11-09T17:52:54.915017",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMID41200848",
+      "title": "Dupilumab efficacy by disease severity in pediatric type 2 asthma.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology",
+      "intervention": null,
+      "sponsor": "Jackson DJ, Gappa M, Bacharier LB",
+      "start_date": "2025 Nov",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41200848/",
+      "retrieved_at": "2025-11-09T17:52:55.825741",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41073307",
+      "title": "[Efficacy and clinical remission in patients with severe asthma and blood eosinophil counts ≥150 cells/μl treated with benralizumab: a sub-analysis of the Phase 3 MIRACLE study].",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal of tuberculosis and respiratory diseases",
+      "intervention": null,
+      "sponsor": "Lai KF, Wu YM, Luo Z",
+      "start_date": "2025 Oct 12",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41073307/",
+      "retrieved_at": "2025-11-09T17:52:55.825741",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41071551",
+      "title": "Air Purifier Intervention for Respiratory Viral Exposure in Elementary Schools: A Secondary Analysis of a Randomized Clinical Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "JAMA network open",
+      "intervention": null,
+      "sponsor": "Sun Y, Haghnazari D, Huang CY",
+      "start_date": "2025 Oct 1",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41071551/",
+      "retrieved_at": "2025-11-09T17:52:55.825741",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "nct05321082",
+      "title": "POS1300 DEMOGRAPHICS AND BASELINE CHARACTERISTICS OF PATIENTS WITH AUTOIMMUNE DISEASE INTERSTITIAL LUNG DISEASE ENROLLED IN THE FIBRONEER-ILD TRIAL OF BI 1015550",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis Interstitial Lung Disease Asthma",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2024-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/annrheumdis-2024-eular.1765",
+      "retrieved_at": "2025-11-09T17:52:55.380337",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "nct06767904",
+      "title": "Comparing the efficacy of exertional oxygen delivery by continuous versus demand-based flow systems during 6-minute walk test in patients with fibrotic interstitial lung disease and COPD in a hospital setting (OXYCODE): a protocol for a randomised trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis Interstitial Lung Disease Asthma",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2025-5",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2025-099664",
+      "retrieved_at": "2025-11-09T17:52:55.380337",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "nct02896205",
+      "title": "FRI0445 A randomised controlled trial to compare the efficacy of oral mycophenolate mofetil with placebo in patients with systemic sclerosis related early interstitial lung disease",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis Interstitial Lung Disease Asthma",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2018-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/annrheumdis-2018-eular.4673",
+      "retrieved_at": "2025-11-09T17:52:55.380337",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "nct05662124",
+      "title": "REMOTE-ILD study: Description of the protocol for a multicentre, 12-month randomised controlled trial to assess the clinical and cost-effectiveness of remote monitoring of spirometry and pulse oximetry in patients with interstitial lung disease",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis Interstitial Lung Disease Asthma",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2024-2",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjresp-2023-002067",
+      "retrieved_at": "2025-11-09T17:52:55.380337",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMID41107055",
+      "title": "Nailfold capillaroscopy in patients with systemic sclerosis-associated interstitial lung disease: a substudy of the SENSCIS trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "RMD open",
+      "intervention": null,
+      "sponsor": "Smith V, Denton CP, Herrick AL",
+      "start_date": "2025 Oct 17",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41107055/",
+      "retrieved_at": "2025-11-09T17:52:55.825741",
+      "match_score": 0.8,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "nct02597933",
+      "title": "Nailfold capillaroscopy in patients with systemic sclerosis-associated interstitial lung disease: a substudy of the SENSCIS trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis Interstitial Lung Disease Asthma",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2025-10",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/rmdopen-2025-005704",
+      "retrieved_at": "2025-11-09T17:52:55.380337",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12590568",
+      "title": "Effectiveness of a mobile respiratory trainer (AiroFit PRO&lt;sup&gt;™&lt;/sup&gt;) in ankylosing spondylitis: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis OR Interstitial Lung Disease OR Asthma",
+      "intervention": null,
+      "sponsor": "Uçar Baytaroğlu İM, Karahan AY.",
+      "start_date": "2025-11-05",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Rheumatology, Uşak Training and Rese",
+      "source_url": "https://europepmc.org/article/MED/41190581",
+      "retrieved_at": "2025-11-09T17:52:54.915017",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12579195",
+      "title": "Antibody-drug conjugates versus docetaxel for previously treated advanced non-small-cell lung cancer: a systematic review and meta-analysis of randomized controlled trials.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis OR Interstitial Lung Disease OR Asthma",
+      "intervention": null,
+      "sponsor": "Khan SR, Eiras LM, Boldt G, Raphael J, Breadner D.",
+      "start_date": "2025-10-31",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Schulich School of Medicine & Dentistry, Western U",
+      "source_url": "https://europepmc.org/article/MED/41179119",
+      "retrieved_at": "2025-11-09T17:52:54.915017",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC11514746",
+      "title": "Periodontal conditions and salivary microbiota are potential indicators to distinguish silicosis: an exploratory study.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis OR Interstitial Lung Disease OR Asthma",
+      "intervention": null,
+      "sponsor": "Duan S, Shao M, Zhang C, Zhao J, Zhu F, Luo N, Lei",
+      "start_date": "2024-10-28",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "National Center for Stomatology & National Clinica",
+      "source_url": "https://europepmc.org/article/MED/39465426",
+      "retrieved_at": "2025-11-09T17:52:54.915017",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12486775",
+      "title": "Comparison of remimazolam tosylate and sevoflurane for anesthesia induction with preserved spontaneous respiration during tracheal intubation: a prospective, single-center, randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Silicosis OR Interstitial Lung Disease OR Asthma",
+      "intervention": null,
+      "sponsor": "Hong Y, Meng S, Liu J, Zhao Q, Peng J, Chen Y.",
+      "start_date": "2025-10-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Anesthesiology, Sun Yat-Sen Memorial",
+      "source_url": "https://europepmc.org/article/MED/41035018",
+      "retrieved_at": "2025-11-09T17:52:54.915017",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Silicosis",
+        "Interstitial Lung Disease",
+        "Asthma"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:52:55.708637",
+      "match_score": 0.1,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:52:55.708637",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:52:55.708637",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:52:55.708637",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:52:55.708637",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Stud...",
+      "url": "https://europepmc.org/article/PMC/PMC7567026",
+      "snippet": "<h4>Background</h4>In an era of shifting global agendas and expanded emphasis on non-communicable diseases and injuries along with communicable diseases, sound evidence on trends by cause at the national level is essential. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) provid...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "Journal of Fungi",
+      "title": "Update on Respiratory Fungal Infections in Cystic Fibrosis Lung Disease and after Lung Transplantation",
+      "url": "https://doi.org/10.3390/jof6040381",
+      "snippet": "Cystic fibrosis is the most common autosomal-recessive metabolic disease in the Western world. Impaired trans-membrane chloride transport via the cystic fibrosis transmembrane conductance regulator (CFTR) protein causes thickened body fluids. In the respiratory system, this leads to chronic suppurat...",
+      "relevance_score": 0.58,
+      "retrieved_at": "2025-11-09T17:52:56.219015",
+      "matched_terms": []
+    },
+    {
+      "source": "Canadian Respiratory Journal",
+      "title": "Diffuse Pulmonary Ossification as a Rare Cause of Interstitial Lung Disease",
+      "url": "https://doi.org/10.1155/2014/640419",
+      "snippet": "Diffuse pulmonary ossification (DPO) is a rare form of interstitial lung disease. The present article describes a case of DPO in an elderly man who presented with progressive dyspnea on exertion and an isolated reduction in diffusing capacity for carbon monoxide. DPO may occur as sequelae of mitral ...",
+      "relevance_score": 0.56,
+      "retrieved_at": "2025-11-09T17:52:56.219015",
+      "matched_terms": []
+    },
+    {
+      "source": "Canadian Respiratory Journal",
+      "title": "Pediatric Interstitial Lung Disease Masquerading as Difficult Asthma: Management Dilemmas for Rare Lung Disease in Children",
+      "url": "https://doi.org/10.1155/2005/413758",
+      "snippet": "Idiopathic nontransplant‐related childhood bronchiolitis obliterans  is an uncommon disease. Most patients present with chronic recurrent  dyspnea, cough and wheezing, which are also features of asthma,  by far a much more common condition. The present case study  reports on a six‐year‐old girl who ...",
+      "relevance_score": 0.52,
+      "retrieved_at": "2025-11-09T17:52:56.219015",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical medicine. Circulatory, respiratory and pulmonary medicine",
+      "title": "Eosinophilic Lung Disease",
+      "url": "https://doi.org/10.4137/ccrpm.s575",
+      "snippet": " Eosinophilic lung diseases represent a group of disorders in which lung infiltrates seen on a chest radiograph, may or may not be accompanied by peripheral blood eosinophilia. The causes are varied, and range from drug ingestion, parasite or fungal infection, or else, may be idiopathic. The clinica...",
+      "relevance_score": 0.51,
+      "retrieved_at": "2025-11-09T17:52:56.219015",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.",
+      "url": "https://europepmc.org/article/PMC/PMC7159299",
+      "snippet": "<h4>Background</h4>A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients.<h4>Metho...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical Characteristics of Coronavirus Disease 2019 in China.",
+      "url": "https://europepmc.org/article/PMC/PMC7092819",
+      "snippet": "<h4>Background</h4>Since December 2019, when coronavirus disease 2019 (Covid-19) emerged in Wuhan city and rapidly spread throughout China, data have been needed on the clinical characteristics of the affected patients.<h4>Methods</h4>We extracted data regarding 1099 patients with laboratory-confirm...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.",
+      "url": "https://europepmc.org/article/PMC/PMC7270627",
+      "snippet": "<h4>Background</h4>Since December, 2019, Wuhan, China, has experienced an outbreak of coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Epidemiological and clinical characteristics of patients with COVID-19 have been reported but risk fa...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3).",
+      "url": "https://europepmc.org/article/PMC/PMC4968574",
+      "snippet": "<h4>Importance</h4>Definitions of sepsis and septic shock were last revised in 2001. Considerable advances have since been made into the pathobiology (changes in organ function, morphology, cell biology, biochemistry, immunology, and circulation), management, and epidemiology of sepsis, suggesting t...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China.",
+      "url": "https://europepmc.org/article/PMC/PMC7042881",
+      "snippet": "<h4>Importance</h4>In December 2019, novel coronavirus (2019-nCoV)-infected pneumonia (NCIP) occurred in Wuhan, China. The number of cases has increased rapidly but information on the clinical characteristics of affected patients is limited.<h4>Objective</h4>To describe the epidemiological and clini...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin.",
+      "url": "https://europepmc.org/article/PMC/PMC7095418",
+      "snippet": "Since the outbreak of severe acute respiratory syndrome (SARS) 18 years ago, a large number of SARS-related coronaviruses (SARSr-CoVs) have been discovered in their natural reservoir host, bats<sup>1-4</sup>. Previous studies have shown that some bat SARSr-CoVs have the potential to infect humans<su...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.",
+      "url": "https://europepmc.org/article/PMC/PMC7135076",
+      "snippet": "<h4>Background</h4>In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the epidemiological and clinical characteristics of 2019-nCoV pneumonia.<h4>Methods</h4>In this retrospective, single-centre study, we include...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Ferroptosis: an iron-dependent form of nonapoptotic cell death.",
+      "url": "https://europepmc.org/article/PMC/PMC3367386",
+      "snippet": "Nonapoptotic forms of cell death may facilitate the selective elimination of some tumor cells or be activated in specific pathological states. The oncogenic RAS-selective lethal small molecule erastin triggers a unique iron-dependent form of nonapoptotic cell death that we term ferroptosis. Ferropto...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Improved survival with ipilimumab in patients with metastatic melanoma.",
+      "url": "https://europepmc.org/article/PMC/PMC3549297",
+      "snippet": "<h4>Background</h4>An improvement in overall survival among patients with metastatic melanoma has been an elusive goal. In this phase 3 study, ipilimumab--which blocks cytotoxic T-lymphocyte-associated antigen 4 to potentiate an antitumor T-cell response--administered with or without a glycoprotein ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:52:56.315529",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "snippet": "\"Wuhan pneumonia\". In the past, many diseases have been named after geographical locations, such as the Spanish flu, Middle East respiratory syndrome, and",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T17:52:55.531124",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.62,
+  "confidence_level": "Medium",
+  "report_url": "/api/reports/job_e39d9ae7-56aa-4526-b8f8-2afdb8d35a23.pdf",
+  "created_at": "2025-11-09T12:22:44.885060",
+  "completed_at": "2025-11-09T12:23:14.724022"
+}

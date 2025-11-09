@@ -1,0 +1,445 @@
+{
+  "job_id": "67f7942e-6e1f-4a4c-a6d1-9acff2f003ed",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Analysis of 'Which respiratory diseases show low competition but high patient burden in India?' reveals 11 relevant clinical trials, with 0 currently active or recruiting. The competitive landscape shows low competition in India. This represents a significant opportunity for market entry with limited direct competition. Patent analysis identified 5 relevant patents, and web intelligence gathered 19 supporting data points. Patient burden indicators suggest substantial unmet medical need in this therapeutic area.",
+  "key_findings": [
+    "Analysis Confidence: High (1/100) - Based on 11 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12581411",
+      "title": "The effect of Baduanjin exercises on the functional capacity, respiratory function, and quality of life of patients with idiopathic pulmonary fibrosis: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR COPD OR Asthma",
+      "intervention": null,
+      "sponsor": "Atmaca SN, Demir R, Mustafaoğlu R, Atahan E.",
+      "start_date": "2025-11-03",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Physiotherapy and Rehabilitation, Fa",
+      "source_url": "https://europepmc.org/article/MED/41184899",
+      "retrieved_at": "2025-11-09T18:06:41.201037",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12579866",
+      "title": "Treatment Decisions for Stable Chronic Obstructive Pulmonary Disease in China: An Observational Cross-Sectional Survey Based on Multivariate Discrete Choice Modeling.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR COPD OR Asthma",
+      "intervention": null,
+      "sponsor": "Cui J, Tang C, Li H, Zhou Y, Li S.",
+      "start_date": "2025-10-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Pulmonary and Critical Care Medicine",
+      "source_url": "https://europepmc.org/article/MED/41185885",
+      "retrieved_at": "2025-11-09T18:06:41.201037",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12466979",
+      "title": "Mindfulness-Based Interventions for Chronic Pulmonary Diseases: A Systematic Review of Effects on Anxiety, Depression, Stress, Dyspnea, and Quality of Life.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR COPD OR Asthma",
+      "intervention": null,
+      "sponsor": "Bramanti A, Pessolano C, Garofano M, Maglio AA, Ci",
+      "start_date": "2025-08-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Medicine, Surgery and Dentistry, Uni",
+      "source_url": "https://europepmc.org/article/MED/41007176",
+      "retrieved_at": "2025-11-09T18:06:41.201037",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12542400",
+      "title": "Efficacy of non-invasive ventilation in chronic obstructive pulmonary disease management: a systematic review and meta-analysis of randomized controlled trials.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR COPD OR Asthma",
+      "intervention": null,
+      "sponsor": "Li J, Ran L.",
+      "start_date": "2025-10-22",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Departments of Infectious Diseases, The People's H",
+      "source_url": "https://europepmc.org/article/MED/41126146",
+      "retrieved_at": "2025-11-09T18:06:41.201037",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12590568",
+      "title": "Effectiveness of a mobile respiratory trainer (AiroFit PRO&lt;sup&gt;™&lt;/sup&gt;) in ankylosing spondylitis: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR COPD OR Asthma",
+      "intervention": null,
+      "sponsor": "Uçar Baytaroğlu İM, Karahan AY.",
+      "start_date": "2025-11-05",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Rheumatology, Uşak Training and Rese",
+      "source_url": "https://europepmc.org/article/MED/41190581",
+      "retrieved_at": "2025-11-09T18:06:41.201037",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "PMC12357564",
+      "title": "Efficacy and Safety of Guben Kechuan Granules in the Treatment of Chronic Bronchitis: A Multi-Center and Randomized Controlled Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR COPD OR Asthma",
+      "intervention": null,
+      "sponsor": "Li D, Shang X, Hong E, Zhu H, Li C, Zhang Y, Du C,",
+      "start_date": "2025-08-12",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Traditional Chinese Medicine for Pul",
+      "source_url": "https://europepmc.org/article/MED/40822380",
+      "retrieved_at": "2025-11-09T18:06:41.201037",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "nct03739359",
+      "title": "Effects of flow rate on transnasal pulmonary aerosol delivery of bronchodilators via high-flow nasal cannula for patients with COPD and asthma: protocol for a randomised controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia COPD Asthma",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2019-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2018-028584",
+      "retrieved_at": "2025-11-09T18:06:41.200038",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "nct00245908",
+      "title": "Secondary Outcomes of a Pilot Randomized Trial of Azithromycin Treatment for Asthma",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia COPD Asthma",
+      "intervention": null,
+      "sponsor": "Public Library of Science (PLoS)",
+      "start_date": "2006-6-30",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1371/journal.pctr.0010011",
+      "retrieved_at": "2025-11-09T18:06:41.200038",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "nct03449316",
+      "title": "Inhaler technique education in elderly patients with asthma or COPD: impact on disease exacerbations—a protocol for a single-blinded randomised controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia COPD Asthma",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2019-1",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2018-022685",
+      "retrieved_at": "2025-11-09T18:06:41.200038",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "irct2016011325991n1",
+      "title": "Investigating the effectiveness of the Trigonella foenum-graecum L. (fenugreek) seeds in mild asthma: a randomized controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia COPD Asthma",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2018-5-2",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1186/s13223-018-0238-9",
+      "retrieved_at": "2025-11-09T18:06:41.200038",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    },
+    {
+      "nct_id": "nct03277664",
+      "title": "The effect of electronic monitoring combined with weekly feedback and reminders on adherence to inhaled corticosteroids in infants and younger children with asthma: a randomized controlled trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia COPD Asthma",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2020-7-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1186/s13223-020-00466-6",
+      "retrieved_at": "2025-11-09T18:06:41.200038",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "COPD",
+        "Asthma"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T18:06:42.051403",
+      "match_score": 0.2,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T18:06:42.051403",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T18:06:42.051403",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T18:06:42.051403",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T18:06:42.051403",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "\"Mini-mental state\". A practical method for grading the cognitive state of patients for the clinician.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1202204/",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Fiji: an open-source platform for biological-image analysis.",
+      "url": "https://europepmc.org/article/PMC/PMC3855844",
+      "snippet": "Fiji is a distribution of the popular open-source software ImageJ focused on biological-image analysis. Fiji uses modern software engineering practices to combine powerful software libraries with a broad range of scripting languages to enable rapid prototyping of image-processing algorithms. Fiji fa...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The hospital anxiety and depression scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6880820/",
+      "snippet": "A self-assessment scale has been developed and found to be a reliable instrument for detecting states of depression and anxiety in the setting of an hospital medical outpatient clinic. The anxiety and depressive subscales are also valid measures of severity of the emotional disorder. It is suggested...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The PHQ-9: validity of a brief depression severity measure.",
+      "url": "https://europepmc.org/article/PMC/PMC1495268",
+      "snippet": "<h4>Objective</h4>While considerable attention has focused on improving the detection of depression, assessment of severity is also important in guiding treatment decisions. Therefore, we examined the validity of a brief, new measure of depression severity.<h4>Measurements</h4>The Patient Health Que...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "PLINK: a tool set for whole-genome association and population-based linkage analyses.",
+      "url": "https://europepmc.org/article/PMC/PMC1950838",
+      "snippet": "Whole-genome association studies (WGAS) bring new computational, as well as analytic, challenges to researchers. Many existing genetic-analysis tools are not designed to handle such large data sets in a convenient manner and do not necessarily exploit the new opportunities that whole-genome data bri...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Quantifying heterogeneity in a meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12111919/",
+      "snippet": "The extent of heterogeneity in a meta-analysis partly determines the difficulty in drawing overall conclusions. This extent may be measured by estimating a between-study variance, but interpretation is then specific to a particular treatment effect metric. A test for the existence of heterogeneity e...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics ...",
+      "url": "https://europepmc.org/article/PMC/PMC4544753",
+      "snippet": "The American College of Medical Genetics and Genomics (ACMG) previously developed guidance for the interpretation of sequence variants.(1) In the past decade, sequencing technology has evolved rapidly with the advent of high-throughput next-generation sequencing. By adopting and leveraging next-gene...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A rating scale for depression.",
+      "url": "https://europepmc.org/article/PMC/PMC495331",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/",
+      "snippet": "Despite the prevalence of sleep complaints among psychiatric patients, few questionnaires have been specifically designed to measure sleep quality in clinical populations. The Pittsburgh Sleep Quality Index (PSQI) is a self-rated questionnaire which assesses sleep quality and disturbances over a 1-m...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "An inventory for measuring depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13688369/",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:06:41.734936",
+      "matched_terms": []
+    },
+    {
+      "source": "Pulmonary Medicine",
+      "title": "Rheumatoid Arthritis-Associated Interstitial Lung Disease: Diagnostic Dilemma",
+      "url": "https://doi.org/10.1155/2011/872120",
+      "snippet": "Interstitial lung disease (ILD) is an increasingly recognized complication of rheumatoid arthritis (RA) contributing to significantly increased morbidity and mortality. Diagnosis can be challenging since patients are unlikely to report dyspnea due to an overall decrease in physical activity with adv...",
+      "relevance_score": 0.73,
+      "retrieved_at": "2025-11-09T18:06:42.531386",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Medicine Insights: Circulatory, Respiratory and Pulmonary Medicine",
+      "title": "Up-to-Date Information on Rheumatoid Arthritis-Associated Interstitial Lung Disease",
+      "url": "https://doi.org/10.4137/ccrpm.s23289",
+      "snippet": " Pulmonary involvement is common in rheumatoid arthritis (RA) and affects all the components of the lung. Interstitial lung disease (ILD) is the most predominant pulmonary manifestation and has been identified as the main cause of morbidity and mortality in RA. Clinically significant RA-ILD occurs i...",
+      "relevance_score": 0.56,
+      "retrieved_at": "2025-11-09T18:06:42.531386",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Medicine Insights: Circulatory, Respiratory and Pulmonary Medicine",
+      "title": "Management of Rheumatoid Arthritis Patients with Interstitial Lung Disease: Safety of Biological Antirheumatic Drugs and Assessment of Pulmonary Fibro",
+      "url": "https://doi.org/10.4137/ccrpm.s23288",
+      "snippet": " Interstitial lung disease (ILD) is one of the major causes of morbidity and mortality of patients with rheumatoid arthritis (RA). Accompanying the increased number of reports on the development or exacerbation of ILD in RA patients following therapy with biological disease-modifying antirheumatic d...",
+      "relevance_score": 0.55,
+      "retrieved_at": "2025-11-09T18:06:42.531386",
+      "matched_terms": []
+    },
+    {
+      "source": "Journal of Clinical Medicine",
+      "title": "Moving forward in Rheumatoid Arthritis-Associated Interstitial Lung Disease Screening",
+      "url": "https://doi.org/10.3390/jcm13185385",
+      "snippet": "Patients with rheumatoid arthritis (RA) are at increased risk of developing interstitial lung disease compared to the general population, a complication that is associated with significant morbidity and high mortality. Given its frequency and severity, ILD should always be considered during both the...",
+      "relevance_score": 0.52,
+      "retrieved_at": "2025-11-09T18:06:42.531386",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "snippet": "\"Wuhan pneumonia\". In the past, many diseases have been named after geographical locations, such as the Spanish flu, Middle East respiratory syndrome, and",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T18:06:41.842498",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.85,
+  "confidence_level": "High",
+  "report_url": "/api/reports/job_67f7942e-6e1f-4a4c-a6d1-9acff2f003ed.pdf",
+  "created_at": "2025-11-09T12:36:34.697782",
+  "completed_at": "2025-11-09T12:36:52.189426"
+}

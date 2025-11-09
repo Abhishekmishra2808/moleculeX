@@ -1,0 +1,445 @@
+{
+  "job_id": "819345eb-e325-4d96-a5b9-802dfd3f951e",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Analysis of 'Which respiratory diseases show low competition but high patient burden in India?' reveals 11 relevant clinical trials, with 0 currently active or recruiting. The competitive landscape shows low competition in India. This represents a significant opportunity for market entry with limited direct competition. Patent analysis identified 5 relevant patents, and web intelligence gathered 19 supporting data points. Patient burden indicators suggest substantial unmet medical need in this therapeutic area.",
+  "key_findings": [
+    "Analysis Confidence: High (1/100) - Based on 11 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12581411",
+      "title": "The effect of Baduanjin exercises on the functional capacity, respiratory function, and quality of life of patients with idiopathic pulmonary fibrosis: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Tuberculosis OR Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Atmaca SN, Demir R, Mustafaoğlu R, Atahan E.",
+      "start_date": "2025-11-03",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Physiotherapy and Rehabilitation, Fa",
+      "source_url": "https://europepmc.org/article/MED/41184899",
+      "retrieved_at": "2025-11-09T18:10:04.874095",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "PMC12542400",
+      "title": "Efficacy of non-invasive ventilation in chronic obstructive pulmonary disease management: a systematic review and meta-analysis of randomized controlled trials.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Tuberculosis OR Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Li J, Ran L.",
+      "start_date": "2025-10-22",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Departments of Infectious Diseases, The People's H",
+      "source_url": "https://europepmc.org/article/MED/41126146",
+      "retrieved_at": "2025-11-09T18:10:04.874095",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "PMC12186071",
+      "title": "Effect of Early and Progressive Rehabilitation Protocol on Fatigue, Functional Outcome, and Kinesiophobia in Patients on Non-invasive Ventilation: A Randomized Controlled Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Tuberculosis OR Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Vaidya AC, Kapre VM, Dobhal SP, Shukla MP, Mishra ",
+      "start_date": "2025-06-05",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Cardiovascular and Respiratory Physi",
+      "source_url": "https://europepmc.org/article/MED/40567316",
+      "retrieved_at": "2025-11-09T18:10:04.874095",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "PMC12572911",
+      "title": "Long-term Effect of Pulmonary Rehabilitation in Pulmonary Tuberculosis Patients.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Tuberculosis OR Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Orooj M, Saraf A, Mujaddadi A, Jain M, Ahmed I, Ku",
+      "start_date": "2025-10-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Physiotherapy, Teerthanker Mahaveer ",
+      "source_url": "https://europepmc.org/article/MED/41133795",
+      "retrieved_at": "2025-11-09T18:10:04.874095",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "PMC12571891",
+      "title": "Immune cell regulatory networks in chronic obstructive pulmonary disease: mechanistic analysis from innate to adaptive immunity.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Tuberculosis OR Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Li H, Wang Y, Duan H, Bao Y, Deng X, He Y, Gao Q, ",
+      "start_date": "2025-10-16",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Shanghai University of Traditional Chinese Medicin",
+      "source_url": "https://europepmc.org/article/MED/41181156",
+      "retrieved_at": "2025-11-09T18:10:04.874095",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "PMC12553194",
+      "title": "Target trial emulation of DPP-4 Inhibitors in patients with T2DM for pulmonary tuberculosis: a nationwide observational data.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Tuberculosis OR Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Chen YG, Wei JC, Yen FS, Sung CY, Huang YH, Yu TS,",
+      "start_date": "2025-10-24",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "School of Medicine, College of Medicine, Taipei Me",
+      "source_url": "https://europepmc.org/article/MED/41137015",
+      "retrieved_at": "2025-11-09T18:10:04.874095",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "nct06767904",
+      "title": "Comparing the efficacy of exertional oxygen delivery by continuous versus demand-based flow systems during 6-minute walk test in patients with fibrotic interstitial lung disease and COPD in a hospital setting (OXYCODE): a protocol for a randomised trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Tuberculosis Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2025-5",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2025-099664",
+      "retrieved_at": "2025-11-09T18:10:04.875095",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "nct05321082",
+      "title": "POS1300 DEMOGRAPHICS AND BASELINE CHARACTERISTICS OF PATIENTS WITH AUTOIMMUNE DISEASE INTERSTITIAL LUNG DISEASE ENROLLED IN THE FIBRONEER-ILD TRIAL OF BI 1015550",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Tuberculosis Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2024-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/annrheumdis-2024-eular.1765",
+      "retrieved_at": "2025-11-09T18:10:04.875095",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "nct02597933",
+      "title": "Nailfold capillaroscopy in patients with systemic sclerosis-associated interstitial lung disease: a substudy of the SENSCIS trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Tuberculosis Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2025-10",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/rmdopen-2025-005704",
+      "retrieved_at": "2025-11-09T18:10:04.875095",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "nct02896205",
+      "title": "FRI0445 A randomised controlled trial to compare the efficacy of oral mycophenolate mofetil with placebo in patients with systemic sclerosis related early interstitial lung disease",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Tuberculosis Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2018-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/annrheumdis-2018-eular.4673",
+      "retrieved_at": "2025-11-09T18:10:04.875095",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    },
+    {
+      "nct_id": "actrn12612000514808",
+      "title": "A self-management approach using self-initiated action plans for symptoms with ongoing nurse support in patients with Chronic Obstructive Pulmonary Disease (COPD) and comorbidities: The COPE-III study protocol",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Tuberculosis Interstitial Lung Disease",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2013-9",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.cct.2013.06.003",
+      "retrieved_at": "2025-11-09T18:10:04.875095",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Tuberculosis",
+        "Interstitial Lung Disease"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T18:10:05.629600",
+      "match_score": 0.1,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T18:10:05.629600",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T18:10:05.629600",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T18:10:05.629600",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T18:10:05.629600",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "Electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets: procedure and some applications.",
+      "url": "https://europepmc.org/article/PMC/PMC411572",
+      "snippet": "A method has been devised for the electrophoretic transfer of proteins from polyacrylamide gels to nitrocellulose sheets. The method results in quantitative transfer of ribosomal proteins from gels containing urea. For sodium dodecyl sulfate gels, the original band pattern was obtained with no loss ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The PHQ-9: validity of a brief depression severity measure.",
+      "url": "https://europepmc.org/article/PMC/PMC1495268",
+      "snippet": "<h4>Objective</h4>While considerable attention has focused on improving the detection of depression, assessment of severity is also important in guiding treatment decisions. Therefore, we examined the validity of a brief, new measure of depression severity.<h4>Measurements</h4>The Patient Health Que...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3358796/",
+      "snippet": "The revised criteria for the classification of rheumatoid arthritis (RA) were formulated from a computerized analysis of 262 contemporary, consecutively studied patients with RA and 262 control subjects with rheumatic diseases other than RA (non-RA). The new criteria are as follows: 1) morning stiff...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaborat...",
+      "url": "https://europepmc.org/article/PMC/PMC2714672",
+      "snippet": "Systematic reviews and meta-analyses are essential to summarise evidence relating to efficacy and safety of healthcare interventions accurately and reliably. The clarity and transparency of these reports, however, are not optimal. Poor reporting of systematic reviews diminishes their value to clinic...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Stud...",
+      "url": "https://europepmc.org/article/PMC/PMC7567026",
+      "snippet": "<h4>Background</h4>In an era of shifting global agendas and expanded emphasis on non-communicable diseases and injuries along with communicable diseases, sound evidence on trends by cause at the national level is essential. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) provid...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin.",
+      "url": "https://europepmc.org/article/PMC/PMC1370926",
+      "snippet": "<h4>Background</h4>Type 2 diabetes affects approximately 8 percent of adults in the United States. Some risk factors--elevated plasma glucose concentrations in the fasting state and after an oral glucose load, overweight, and a sedentary lifestyle--are potentially reversible. We hypothesized that mo...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Inflammation and cancer.",
+      "url": "https://europepmc.org/article/PMC/PMC2803035",
+      "snippet": "Recent data have expanded the concept that inflammation is a critical component of tumour progression. Many cancers arise from sites of infection, chronic irritation and inflammation. It is now becoming clear that the tumour microenvironment, which is largely orchestrated by inflammatory cells, is a...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Obesity: preventing and managing the global epidemic. Report of a WHO consultation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11234459/",
+      "snippet": "Overweight and obesity represent a rapidly growing threat to the health of populations in an increasing number of countries. Indeed they are now so common that they are replacing more traditional problems such as undernutrition and infectious diseases as the most significant causes of ill-health. Ob...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The 1982 revised criteria for the classification of systemic lupus erythematosus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7138600/",
+      "snippet": "The 1971 preliminary criteria for the classification of systemic lupus erythematosus (SLE) were revised and updated to incorporate new immunologic knowledge and improve disease classification. The 1982 revised criteria include fluorescence antinuclear antibody and antibody to native DNA and Sm antig...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elabora...",
+      "url": "https://europepmc.org/article/PMC/PMC2707010",
+      "snippet": "Systematic reviews and meta-analyses are essential to summarize evidence relating to efficacy and safety of health care interventions accurately and reliably. The clarity and transparency of these reports, however, is not optimal. Poor reporting of systematic reviews diminishes their value to clinic...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T18:10:04.882423",
+      "matched_terms": []
+    },
+    {
+      "source": "Pulmonary Medicine",
+      "title": "Rheumatoid Arthritis-Associated Interstitial Lung Disease: Diagnostic Dilemma",
+      "url": "https://doi.org/10.1155/2011/872120",
+      "snippet": "Interstitial lung disease (ILD) is an increasingly recognized complication of rheumatoid arthritis (RA) contributing to significantly increased morbidity and mortality. Diagnosis can be challenging since patients are unlikely to report dyspnea due to an overall decrease in physical activity with adv...",
+      "relevance_score": 0.73,
+      "retrieved_at": "2025-11-09T18:10:05.985340",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Medicine Insights: Circulatory, Respiratory and Pulmonary Medicine",
+      "title": "Up-to-Date Information on Rheumatoid Arthritis-Associated Interstitial Lung Disease",
+      "url": "https://doi.org/10.4137/ccrpm.s23289",
+      "snippet": " Pulmonary involvement is common in rheumatoid arthritis (RA) and affects all the components of the lung. Interstitial lung disease (ILD) is the most predominant pulmonary manifestation and has been identified as the main cause of morbidity and mortality in RA. Clinically significant RA-ILD occurs i...",
+      "relevance_score": 0.56,
+      "retrieved_at": "2025-11-09T18:10:05.984342",
+      "matched_terms": []
+    },
+    {
+      "source": "Clinical Medicine Insights: Circulatory, Respiratory and Pulmonary Medicine",
+      "title": "Management of Rheumatoid Arthritis Patients with Interstitial Lung Disease: Safety of Biological Antirheumatic Drugs and Assessment of Pulmonary Fibro",
+      "url": "https://doi.org/10.4137/ccrpm.s23288",
+      "snippet": " Interstitial lung disease (ILD) is one of the major causes of morbidity and mortality of patients with rheumatoid arthritis (RA). Accompanying the increased number of reports on the development or exacerbation of ILD in RA patients following therapy with biological disease-modifying antirheumatic d...",
+      "relevance_score": 0.55,
+      "retrieved_at": "2025-11-09T18:10:05.985340",
+      "matched_terms": []
+    },
+    {
+      "source": "Biomedical Science and Clinical Research",
+      "title": "Prevalence of Hypothyroidism in Rheumatoid Arthritis and its Correlation with Disease Activity",
+      "url": "https://doi.org/10.33140/bscr.02.01.02",
+      "snippet": "Background: Several recent studies have shown an increased incidence of hypothyroidism in many chronic in ammatory diseases, especially rheumatoid arthritis, and others studies have shown a relationship between hypothyroidism in patients with rheumatoid disease and the degree of disease activity. Ai...",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T18:10:05.985340",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "snippet": "\"Wuhan pneumonia\". In the past, many diseases have been named after geographical locations, such as the Spanish flu, Middle East respiratory syndrome, and",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T18:10:04.872095",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.85,
+  "confidence_level": "High",
+  "report_url": "/api/reports/job_819345eb-e325-4d96-a5b9-802dfd3f951e.pdf",
+  "created_at": "2025-11-09T12:39:57.383368",
+  "completed_at": "2025-11-09T12:40:15.529120"
+}

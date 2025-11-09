@@ -11,8 +11,9 @@ from google import genai
 from agents.clinical_trials_agent import ClinicalTrialsAgent
 from agents.patent_agent import PatentAgent
 from agents.web_intel_agent import WebIntelAgent
+from agents.web_search_agent import WebSearchAgent
 from job_manager import JobManager
-from websocket_manager import manager as ws_manager
+from sse_manager import sse_manager
 from models import JobStatus, AgentStatus
 from report_generator import ReportGenerator
 from query_normalizer import QueryNormalizer
@@ -28,11 +29,17 @@ class MasterAgent:
         self.report_generator = ReportGenerator()
         self.query_normalizer = QueryNormalizer()
         self.semantic_search = SemanticSearchEngine()  # Using Gemini API (lightweight)
+        # Configurable max results per agent (default 20)
+        try:
+            self.max_results = int(os.getenv("MAX_RESULTS_PER_AGENT", "20"))
+        except Exception:
+            self.max_results = 20
         
         # Initialize worker agents
         self.clinical_trials_agent = ClinicalTrialsAgent()
         self.patent_agent = PatentAgent()
         self.web_intel_agent = WebIntelAgent()
+        self.web_search_agent = WebSearchAgent()
     
     async def process_query(self, job_id: str, query: str):
         """
@@ -67,14 +74,26 @@ class MasterAgent:
             normalized = await self._expand_search_terms_with_ai(query, normalized)
 
             # Step 2: Run worker agents in parallel with normalized/expanded queries
+            await self._send_ws_update(job_id, "progress_update", {
+                "message": "Starting parallel agent execution...",
+                "progress": 15
+            })
             results = await self._run_workers(job_id, query, intent)
             self.job_manager.update_job(job_id, {"progress": 70})
+            await self._send_ws_update(job_id, "progress_update", {
+                "message": "All agents completed, synthesizing results...",
+                "progress": 70
+            })
             
             # Step 3: Synthesize findings with match scoring
             await self._update_master_status(job_id, AgentStatus.RUNNING)
             analysis = self._synthesize_results(query, results, intent)
             await asyncio.sleep(1)
             self.job_manager.update_job(job_id, {"progress": 85})
+            await self._send_ws_update(job_id, "progress_update", {
+                "message": "Generating comprehensive report...",
+                "progress": 85
+            })
             
             # Step 4: Generate report (PDF or text fallback)
             report_path = await self.report_generator.generate(job_id, query, analysis)
@@ -104,7 +123,9 @@ class MasterAgent:
             
             # Notify completion via WebSocket
             await self._send_ws_update(job_id, "job_completed", {
-                "report_url": analysis["report_url"]
+                "job_id": job_id,
+                "report_url": analysis["report_url"],
+                "status": "completed"
             })
             
             print(f"✅ {self.name}: Analysis completed for job {job_id}")
@@ -168,9 +189,9 @@ class MasterAgent:
                 # Pass expanded terms for better search
                 expanded = search_terms.get("clinical_trials", [])
                 
-                # 30-second timeout for clinical trials search - fetch top 20
+                # 30-second timeout for clinical trials search
                 results = await asyncio.wait_for(
-                    self.clinical_trials_agent.search(query, max_results=20, expanded_terms=expanded), 
+                    self.clinical_trials_agent.search(query, max_results=self.max_results, expanded_terms=expanded), 
                     timeout=30.0
                 )
                 competition = await self.clinical_trials_agent.analyze_competition(results)
@@ -216,9 +237,9 @@ class MasterAgent:
                 # Pass expanded terms (focused for patents)
                 expanded = search_terms.get("patents", [])
                 
-                # 30-second timeout for patent search - fetch top 20
+                # 30-second timeout for patent search
                 results = await asyncio.wait_for(
-                    self.patent_agent.search(query, max_results=20, expanded_terms=expanded),
+                    self.patent_agent.search(query, max_results=self.max_results, expanded_terms=expanded),
                     timeout=30.0
                 )
                 
@@ -263,9 +284,9 @@ class MasterAgent:
                 # Pass expanded terms (broader for literature)
                 expanded = search_terms.get("literature", [])
                 
-                # 30-second timeout for web intel search - fetch top 20
+                # 30-second timeout for web intel search
                 results = await asyncio.wait_for(
-                    self.web_intel_agent.search(query, max_results=20, expanded_terms=expanded),
+                    self.web_intel_agent.search(query, max_results=self.max_results, expanded_terms=expanded),
                     timeout=30.0
                 )
                 
@@ -295,12 +316,50 @@ class MasterAgent:
                     job_id, "Web Intel Agent", AgentStatus.FAILED, error=str(e)
                 )
                 return []
+
+        # Web Search Agent (DuckDuckGo + Wikipedia) for general context
+        async def run_web_search():
+            try:
+                self.job_manager.update_agent_status(
+                    job_id, "Web Search Agent", AgentStatus.RUNNING
+                )
+                await self._send_ws_update(job_id, "agent_update", {
+                    "agent": "Web Search Agent",
+                    "status": "running"
+                })
+                results = await asyncio.wait_for(
+                    self.web_search_agent.search(query, max_results=min(10, self.max_results)),
+                    timeout=20.0
+                )
+                self.job_manager.update_agent_status(
+                    job_id, "Web Search Agent", AgentStatus.COMPLETED, len(results)
+                )
+                await self._send_ws_update(job_id, "agent_update", {
+                    "agent": "Web Search Agent",
+                    "status": "completed",
+                    "result_count": len(results)
+                })
+                return results
+            except asyncio.TimeoutError:
+                self.job_manager.update_agent_status(
+                    job_id, "Web Search Agent", AgentStatus.FAILED, 0, "Timeout"
+                )
+                await self._send_ws_update(job_id, "agent_update", {
+                    "agent": "Web Search Agent", "status": "failed", "error": "Timeout"
+                })
+                return []
+            except Exception as e:
+                self.job_manager.update_agent_status(
+                    job_id, "Web Search Agent", AgentStatus.FAILED, error=str(e)
+                )
+                return []
         
         # Run all workers in parallel (continue even if some fail)
-        clinical_data, patents, web_intel = await asyncio.gather(
+        clinical_data, patents, web_intel, web_search = await asyncio.gather(
             run_clinical(),
             run_patent(),
             run_web(),
+            run_web_search(),
             return_exceptions=False  # Already handled exceptions in each function
         )
         
@@ -308,7 +367,7 @@ class MasterAgent:
             "clinical_trials": clinical_data["trials"],
             "competition_analysis": clinical_data["competition_analysis"],
             "patents": patents,
-            "web_intel": web_intel
+            "web_intel": web_intel + web_search
         }
     
     def _synthesize_results(self, query: str, results: Dict[str, Any], intent: Dict[str, Any]) -> Dict[str, Any]:
@@ -477,8 +536,8 @@ Write a concise, insightful executive summary highlighting opportunities, compet
         self.job_manager.update_agent_status(job_id, "Master Agent", status)
     
     async def _send_ws_update(self, job_id: str, event_type: str, data: Dict[str, Any]):
-        """Send WebSocket update"""
-        await ws_manager.send_update(job_id, event_type, data)
+        """Send SSE update"""
+        await sse_manager.send_update(job_id, event_type, data)
 
     async def _expand_search_terms_with_ai(self, query: str, normalized: Dict[str, Any]) -> Dict[str, Any]:
         """Use Gemini to expand canonical terms and synonyms for better recall.

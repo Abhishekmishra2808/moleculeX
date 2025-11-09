@@ -1,0 +1,38 @@
+{
+  "job_id": "85447aee-79f8-47d9-b20a-c36f6c116ca5",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "agents": [
+    {
+      "name": "Master Agent",
+      "status": "completed",
+      "result_count": 0,
+      "start_time": "2025-11-09T12:00:32.620929",
+      "end_time": "2025-11-09T12:00:43.582482"
+    },
+    {
+      "name": "Clinical Trials Agent",
+      "status": "completed",
+      "result_count": 0,
+      "start_time": "2025-11-09T12:00:34.917907",
+      "end_time": "2025-11-09T12:00:38.427836"
+    },
+    {
+      "name": "Patent Agent",
+      "status": "completed",
+      "result_count": 7,
+      "start_time": "2025-11-09T12:00:34.929704",
+      "end_time": "2025-11-09T12:00:38.206799"
+    },
+    {
+      "name": "Web Intel Agent",
+      "status": "completed",
+      "result_count": 20,
+      "start_time": "2025-11-09T12:00:34.943300",
+      "end_time": "2025-11-09T12:00:38.928400"
+    }
+  ],
+  "progress": 100,
+  "created_at": "2025-11-09T12:00:32.523998",
+  "updated_at": "2025-11-09T12:00:43.582482"
+}

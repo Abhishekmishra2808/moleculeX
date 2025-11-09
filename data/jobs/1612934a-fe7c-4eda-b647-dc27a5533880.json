@@ -1,0 +1,38 @@
+{
+  "job_id": "1612934a-fe7c-4eda-b647-dc27a5533880",
+  "query": "Show me clinical trials for diabetes treatments with less than 5 active competitors",
+  "status": "completed",
+  "agents": [
+    {
+      "name": "Master Agent",
+      "status": "completed",
+      "result_count": 0,
+      "start_time": "2025-11-09T12:10:47.063811",
+      "end_time": "2025-11-09T12:11:10.404434"
+    },
+    {
+      "name": "Clinical Trials Agent",
+      "status": "completed",
+      "result_count": 16,
+      "start_time": "2025-11-09T12:10:52.453894",
+      "end_time": "2025-11-09T12:11:01.094610"
+    },
+    {
+      "name": "Patent Agent",
+      "status": "completed",
+      "result_count": 5,
+      "start_time": "2025-11-09T12:10:52.488786",
+      "end_time": "2025-11-09T12:10:58.235260"
+    },
+    {
+      "name": "Web Intel Agent",
+      "status": "completed",
+      "result_count": 14,
+      "start_time": "2025-11-09T12:10:52.522239",
+      "end_time": "2025-11-09T12:10:59.250995"
+    }
+  ],
+  "progress": 100,
+  "created_at": "2025-11-09T12:10:46.940465",
+  "updated_at": "2025-11-09T12:11:10.404434"
+}

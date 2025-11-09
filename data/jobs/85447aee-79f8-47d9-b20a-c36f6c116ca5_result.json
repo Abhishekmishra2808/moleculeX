@@ -1,0 +1,234 @@
+{
+  "job_id": "85447aee-79f8-47d9-b20a-c36f6c116ca5",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Analysis of 'Which respiratory diseases show low competition but high patient burden in India?' reveals 0 relevant clinical trials, with 0 currently active or recruiting. The competitive landscape shows unknown competition in India. Patent analysis identified 7 relevant patents, and web intelligence gathered 20 supporting data points. Patient burden indicators suggest substantial unmet medical need in this therapeutic area.",
+  "key_findings": [
+    "Analysis Confidence: High (1/100) - Based on 0 trials, 7 patents, 20 publications",
+    "Competitive Analysis: Unknown competition detected with 0 active trials",
+    "Patent Landscape: 7 relevant patents identified, 0 currently active",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [],
+  "patents": [
+    {
+      "patent_id": "US11065248B2",
+      "title": "Tuberculosis treatment regimens with novel antimicrobial agents",
+      "assignee": "TB Alliance",
+      "filing_date": "2021-07-20",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11065248B2",
+      "retrieved_at": "2025-11-09T17:30:38.194850",
+      "match_score": 0.4,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11147800B2",
+      "title": "Inhaled corticosteroid and LABA combination devices for asthma",
+      "assignee": "GlaxoSmithKline",
+      "filing_date": "2021-10-19",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11147800B2",
+      "retrieved_at": "2025-11-09T17:30:38.194850",
+      "match_score": 0.3,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:30:38.194850",
+      "match_score": 0.2,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:30:38.194850",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:30:38.194850",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb Company",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:30:38.194850",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:30:38.194850",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "\"Mini-mental state\". A practical method for grading the cognitive state of patients for the clinician.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1202204/",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The hospital anxiety and depression scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6880820/",
+      "snippet": "A self-assessment scale has been developed and found to be a reliable instrument for detecting states of depression and anxiety in the setting of an hospital medical outpatient clinic. The anxiety and depressive subscales are also valid measures of severity of the emotional disorder. It is suggested...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The PHQ-9: validity of a brief depression severity measure.",
+      "url": "https://europepmc.org/article/PMC/PMC1495268",
+      "snippet": "<h4>Objective</h4>While considerable attention has focused on improving the detection of depression, assessment of severity is also important in guiding treatment decisions. Therefore, we examined the validity of a brief, new measure of depression severity.<h4>Measurements</h4>The Patient Health Que...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics ...",
+      "url": "https://europepmc.org/article/PMC/PMC4544753",
+      "snippet": "The American College of Medical Genetics and Genomics (ACMG) previously developed guidance for the interpretation of sequence variants.(1) In the past decade, sequencing technology has evolved rapidly with the advent of high-throughput next-generation sequencing. By adopting and leveraging next-gene...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A rating scale for depression.",
+      "url": "https://europepmc.org/article/PMC/PMC495331",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/",
+      "snippet": "Despite the prevalence of sleep complaints among psychiatric patients, few questionnaires have been specifically designed to measure sleep quality in clinical populations. The Pittsburgh Sleep Quality Index (PSQI) is a self-rated questionnaire which assesses sleep quality and disturbances over a 1-m...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "An inventory for measuring depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13688369/",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A brief measure for assessing generalized anxiety disorder: the GAD-7.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16717171/",
+      "snippet": "<h4>Background</h4>Generalized anxiety disorder (GAD) is one of the most common mental disorders; however, there is no brief clinical measure for assessing GAD. The objective of this study was to develop a brief self-report scale to identify probable cases of GAD and evaluate its reliability and val...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical Characteristics of Coronavirus Disease 2019 in China.",
+      "url": "https://europepmc.org/article/PMC/PMC7092819",
+      "snippet": "<h4>Background</h4>Since December 2019, when coronavirus disease 2019 (Covid-19) emerged in Wuhan city and rapidly spread throughout China, data have been needed on the clinical characteristics of the affected patients.<h4>Methods</h4>We extracted data regarding 1099 patients with laboratory-confirm...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A global measure of perceived stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6668417/",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaborat...",
+      "url": "https://europepmc.org/article/PMC/PMC2714672",
+      "snippet": "Systematic reviews and meta-analyses are essential to summarise evidence relating to efficacy and safety of healthcare interventions accurately and reliably. The clarity and transparency of these reports, however, are not optimal. Poor reporting of systematic reviews diminishes their value to clinic...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Stud...",
+      "url": "https://europepmc.org/article/PMC/PMC7567026",
+      "snippet": "<h4>Background</h4>In an era of shifting global agendas and expanded emphasis on non-communicable diseases and injuries along with communicable diseases, sound evidence on trends by cause at the national level is essential. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) provid...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15939837/",
+      "snippet": "<h4>Context</h4>Little is known about lifetime prevalence or age of onset of DSM-IV disorders.<h4>Objective</h4>To estimate lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the recently completed National Comorbidity Survey Replication.<h4>Design and setting</h4>Nationally r...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The diagnosis of dementia due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on di...",
+      "url": "https://europepmc.org/article/PMC/PMC3312024",
+      "snippet": "The National Institute on Aging and the Alzheimer's Association charged a workgroup with the task of revising the 1984 criteria for Alzheimer's disease (AD) dementia. The workgroup sought to ensure that the revised criteria would be flexible enough to be used by both general healthcare providers wit...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Crystal structure refinement with SHELXL.",
+      "url": "https://europepmc.org/article/PMC/PMC4294323",
+      "snippet": "The improvements in the crystal structure refinement program SHELXL have been closely coupled with the development and increasing importance of the CIF (Crystallographic Information Framework) format for validating and archiving crystal structures. An important simplification is that now only one fi...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:30:38.914302",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.85,
+  "confidence_level": "High",
+  "report_url": "/api/reports/job_85447aee-79f8-47d9-b20a-c36f6c116ca5.pdf",
+  "created_at": "2025-11-09T12:00:32.523998",
+  "completed_at": "2025-11-09T12:00:43.561529"
+}

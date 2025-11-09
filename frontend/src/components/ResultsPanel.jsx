@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 export default function ResultsPanel({ results }) {
   const { 
@@ -11,6 +11,15 @@ export default function ResultsPanel({ results }) {
     confidence_score = 0,
     confidence_level = "Medium"
   } = results
+
+  // Performance monitoring
+  useEffect(() => {
+    console.log('🎨 ResultsPanel rendering with:', {
+      trials: clinical_trials?.length || 0,
+      patents: patents?.length || 0,
+      literature: web_intel?.length || 0
+    })
+  }, [clinical_trials, patents, web_intel])
 
   const [expandedSections, setExpandedSections] = useState({
     summary: true,
@@ -87,6 +96,9 @@ export default function ResultsPanel({ results }) {
   }
 
   const getPhaseStyle = (phase) => {
+    if (!phase) {
+      return "bg-apple-gray-100/80 text-apple-gray-700 ring-1 ring-apple-gray-300/50"
+    }
     if (phase.includes('3') || phase.includes('4')) {
       return "bg-apple-mint-100/80 text-apple-mint-700 ring-1 ring-apple-mint-300/50"
     }

@@ -1,0 +1,445 @@
+{
+  "job_id": "2ac4bb57-014d-4240-822e-b886c848e2b8",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Respiratory diseases in India present a significant opportunity due to a high patient burden and relatively low competition, as evidenced by limited clinical trials and few relevant patents. While 19 scientific publications highlight research activity, the lack of active clinical trials suggests an unmet need for therapeutic development. This creates a compelling incentive for pharmaceutical companies to invest in research and development of novel treatments for these underserved respiratory conditions.",
+  "key_findings": [
+    "Analysis Confidence: Medium (1/100) - Based on 11 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12249888",
+      "title": "Clinical Insights and Therapeutic Strategies for the Treatment of Interstitial Lung Disease in Patients with Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis: Current Trends and Future Directions.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis OR Interstitial Lung Disease OR Sleep Apnea",
+      "intervention": null,
+      "sponsor": "Fijolek J, Sniady A.",
+      "start_date": "2025-06-30",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Third Department of Pneumonology and Oncology, Nat",
+      "source_url": "https://europepmc.org/article/MED/40649005",
+      "retrieved_at": "2025-11-09T17:49:46.155495",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "PMC12565275",
+      "title": "Pulmonary Hypertension Drives Prognosis in Idiopathic Pulmonary Fibrosis: Insights from the European IPF Registry.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis OR Interstitial Lung Disease OR Sleep Apnea",
+      "intervention": null,
+      "sponsor": "Guenther A, Tello S, Schoppe MC, Pons-Kuehnemann J",
+      "start_date": "2025-10-17",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "European IPF/ILD Registry & Biobank (eurIPFreg/Ban",
+      "source_url": "https://europepmc.org/article/MED/41156222",
+      "retrieved_at": "2025-11-09T17:49:46.155495",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "nct05321082",
+      "title": "POS1300 DEMOGRAPHICS AND BASELINE CHARACTERISTICS OF PATIENTS WITH AUTOIMMUNE DISEASE INTERSTITIAL LUNG DISEASE ENROLLED IN THE FIBRONEER-ILD TRIAL OF BI 1015550",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis Interstitial Lung Disease Sleep Apnea",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2024-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/annrheumdis-2024-eular.1765",
+      "retrieved_at": "2025-11-09T17:49:46.156497",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "nct02597933",
+      "title": "Nailfold capillaroscopy in patients with systemic sclerosis-associated interstitial lung disease: a substudy of the SENSCIS trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis Interstitial Lung Disease Sleep Apnea",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2025-10",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/rmdopen-2025-005704",
+      "retrieved_at": "2025-11-09T17:49:46.156497",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "PMC12517813",
+      "title": "Chronic cough: A review and prospects.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis OR Interstitial Lung Disease OR Sleep Apnea",
+      "intervention": null,
+      "sponsor": "Hu X, Zhang K, Liu T, Zhu XJ.",
+      "start_date": "2025-10-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Pulmonary and Critical Care Medicine",
+      "source_url": "https://europepmc.org/article/MED/41088639",
+      "retrieved_at": "2025-11-09T17:49:46.154495",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "PMC12380396",
+      "title": "Abstracts for NAPCON 2025",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis OR Interstitial Lung Disease OR Sleep Apnea",
+      "intervention": null,
+      "sponsor": null,
+      "start_date": "2025-08-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://europepmc.org/article/PMC/PMC12380396",
+      "retrieved_at": "2025-11-09T17:49:46.155495",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "nct02015598",
+      "title": "Antioxidant Carbocysteine Treatment in Obstructive Sleep Apnea Syndrome: A Randomized Clinical Trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis Interstitial Lung Disease Sleep Apnea",
+      "intervention": null,
+      "sponsor": "Public Library of Science (PLoS)",
+      "start_date": "2016-2-5",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1371/journal.pone.0148519",
+      "retrieved_at": "2025-11-09T17:49:46.156497",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "irct20190602043791n2",
+      "title": "Uvulopalatopharyngoplasty with and without modified thyrohyoid suspension for obstructive sleep apnea treatment: a randomized clinical trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis Interstitial Lung Disease Sleep Apnea",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2023-6-22",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1007/s00405-023-08068-9",
+      "retrieved_at": "2025-11-09T17:49:46.156497",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "nct04084990",
+      "title": "Sleep Apnea and Fetal Growth Restriction (SAFER) study: protocol for a pragmatic randomised clinical trial of positive airway pressure as an antenatal therapy for fetal growth restriction in maternal obstructive sleep apnoea",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis Interstitial Lung Disease Sleep Apnea",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2021-6",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjopen-2021-049120",
+      "retrieved_at": "2025-11-09T17:49:46.156497",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "PMC12486775",
+      "title": "Comparison of remimazolam tosylate and sevoflurane for anesthesia induction with preserved spontaneous respiration during tracheal intubation: a prospective, single-center, randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis OR Interstitial Lung Disease OR Sleep Apnea",
+      "intervention": null,
+      "sponsor": "Hong Y, Meng S, Liu J, Zhao Q, Peng J, Chen Y.",
+      "start_date": "2025-10-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Anesthesiology, Sun Yat-Sen Memorial",
+      "source_url": "https://europepmc.org/article/MED/41035018",
+      "retrieved_at": "2025-11-09T17:49:46.155495",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    },
+    {
+      "nct_id": "PMC12540327",
+      "title": "Clinical observations of high-flow nasal cannula oxygenation in endobronchial ultrasound-guided transbronchial needle aspiration: a randomized controlled study.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Bronchiectasis OR Interstitial Lung Disease OR Sleep Apnea",
+      "intervention": null,
+      "sponsor": "Yue F, Shi X, Zhang H, Yu S, Fu M, Wei Y, Xiao H, ",
+      "start_date": "2025-10-08",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Anesthesiology, Weifang People's Hos",
+      "source_url": "https://europepmc.org/article/MED/41133135",
+      "retrieved_at": "2025-11-09T17:49:46.155495",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Bronchiectasis",
+        "Interstitial Lung Disease",
+        "Sleep Apnea"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:49:46.947663",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:49:46.947663",
+      "match_score": 0.1,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:49:46.947663",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:49:46.947663",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:49:46.947663",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "The Clinical Respiratory Journal",
+      "title": "The Obstructive Lung Disease in Northern Sweden Chronic Obstructive Pulmonary Disease Study: design, the first year participation and mortality",
+      "url": "https://doi.org/10.1111/j.1752-699x.2008.00086.x",
+      "snippet": "<jats:title>Abstract</jats:title><jats:bold>Background: </jats:bold> Most epidemiological data on chronic obstructive pulmonary disease (COPD) are cross‐sectional, and the longitudinal course of disease on population bases is incompletely described.<jats:bold>Aim: </jats:bold> To describe an epidemi...",
+      "relevance_score": 0.69,
+      "retrieved_at": "2025-11-09T17:49:47.269614",
+      "matched_terms": []
+    },
+    {
+      "source": "Respirology",
+      "title": "Respiratory disease and respiratory physiology: Putting lung function into perspective interstitial lung disease",
+      "url": "https://doi.org/10.1111/resp.12348",
+      "snippet": "<jats:title>Abstract</jats:title>The interstitial lung diseases pathologically involve the pulmonary interstitium but may also involve the airways, pleura and pulmonary circulation. They may be idiopathic, be part of other conditions, or be related to drug or environmental exposures. This review wil...",
+      "relevance_score": 0.62,
+      "retrieved_at": "2025-11-09T17:49:47.269614",
+      "matched_terms": []
+    },
+    {
+      "source": "Chronic Respiratory Disease",
+      "title": "Review series: Occupational and environmental lung disease: Chronic obstructive pulmonary disease and the workplace",
+      "url": "https://doi.org/10.1177/1479972309354690",
+      "snippet": "Chronic Obstructive Pulmonary Disease (COPD) is a progressive respiratory disease associated with increasing morbidity and mortality worldwide. Whilst tobacco smoking is the important cause, other cuases are regognised. This article discusses the contribution that harmful inhaled occupational exposu...",
+      "relevance_score": 0.58,
+      "retrieved_at": "2025-11-09T17:49:47.269614",
+      "matched_terms": []
+    },
+    {
+      "source": "The Clinical Respiratory Journal",
+      "title": "Phenotypes of obstructive lung disease",
+      "url": "https://doi.org/10.1111/j.1752-699x.2008.00090.x",
+      "snippet": "<jats:title>Abstract</jats:title>Recently, there has been much emphasis on the fact that there are many different phenotypes in asthma and chronic obstructive pulmonary disease (COPD). The aim of this review is to investigate some aspects of phenotyping in these two diseases.Epidemiological studies ...",
+      "relevance_score": 0.53,
+      "retrieved_at": "2025-11-09T17:49:47.269614",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart Disease and Stroke Statistics-2017 Update: A Report From the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC5408160",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart disease and stroke statistics--2014 update: a report from the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC5408159",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart disease and stroke statistics--2013 update: a report from the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC5408511",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart disease and stroke statistics--2011 update: a report from the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC4418670",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart disease and stroke statistics--2012 update: a report from the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC4440543",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC12135016",
+      "snippet": "<h4>Background</h4>The American Heart Association, in conjunction with the National Institutes of Health, annually reports the most up-to-date statistics related to heart disease, stroke, and cardiovascular risk factors, including core health behaviors (smoking, physical activity, diet, and weight) ...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Guidelines for the use and interpretation of assays for monitoring autophagy (3rd edition).",
+      "url": "https://europepmc.org/article/PMC/PMC4835977",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Nitric oxide and peroxynitrite in health and disease.",
+      "url": "https://europepmc.org/article/PMC/PMC2248324",
+      "snippet": "The discovery that mammalian cells have the ability to synthesize the free radical nitric oxide (NO) has stimulated an extraordinary impetus for scientific research in all the fields of biology and medicine. Since its early description as an endothelial-derived relaxing factor, NO has emerged as a f...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Oxidative stress, inflammation, and cancer: how are they linked?",
+      "url": "https://europepmc.org/article/PMC/PMC2990475",
+      "snippet": "Extensive research during the past 2 decades has revealed the mechanism by which continued oxidative stress can lead to chronic inflammation, which in turn could mediate most chronic diseases including cancer, diabetes, and cardiovascular, neurological, and pulmonary diseases. Oxidative stress can a...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Derivation and validation of the Systemic Lupus International Collaborating Clinics classification criteria for systemic lupus erythematosus.",
+      "url": "https://europepmc.org/article/PMC/PMC3409311",
+      "snippet": "<h4>Objective</h4>The Systemic Lupus International Collaborating Clinics (SLICC) group revised and validated the American College of Rheumatology (ACR) systemic lupus erythematosus (SLE) classification criteria in order to improve clinical relevance, meet stringent methodology requirements, and inco...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:49:47.432406",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "COVID-19",
+      "url": "https://en.wikipedia.org/?curid=63030231",
+      "snippet": "\"Wuhan pneumonia\". In the past, many diseases have been named after geographical locations, such as the Spanish flu, Middle East respiratory syndrome, and",
+      "relevance_score": 0.95,
+      "retrieved_at": "2025-11-09T17:49:46.708943",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.62,
+  "confidence_level": "Medium",
+  "report_url": "/api/reports/job_2ac4bb57-014d-4240-822e-b886c848e2b8.pdf",
+  "created_at": "2025-11-09T12:19:36.957695",
+  "completed_at": "2025-11-09T12:20:05.302493"
+}

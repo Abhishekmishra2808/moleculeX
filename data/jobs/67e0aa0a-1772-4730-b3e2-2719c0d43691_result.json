@@ -1,0 +1,458 @@
+{
+  "job_id": "67e0aa0a-1772-4730-b3e2-2719c0d43691",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "India presents a significant opportunity for pharmaceutical innovation in respiratory diseases characterized by high patient burden but currently facing low competitive intensity, as evidenced by a scarcity of active clinical trials. Although only a few patents are focused on this area, unmet needs likely exist that can be addressed through novel therapeutic interventions, especially concerning treatments for chronic bronchitis and asthma exacerbations, which represent areas of opportunity identified in ongoing systematic reviews and clinical trials. Further research and development focused on these prevalent conditions could yield substantial market penetration and improve patient outcomes in the Indian healthcare landscape.",
+  "key_findings": [
+    "Analysis Confidence: Medium (1/100) - Based on 11 trials, 7 patents, 14 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 7 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12357564",
+      "title": "Efficacy and Safety of Guben Kechuan Granules in the Treatment of Chronic Bronchitis: A Multi-Center and Randomized Controlled Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR Bronchiectasis OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Li D, Shang X, Hong E, Zhu H, Li C, Zhang Y, Du C,",
+      "start_date": "2025-08-12",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Traditional Chinese Medicine for Pul",
+      "source_url": "https://europepmc.org/article/MED/40822380",
+      "retrieved_at": "2025-11-09T17:40:24.021480",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12384798",
+      "title": "Effectiveness of Intravenous and Nebulized MgSO4 in Children with Asthma Exacerbation: A Systematic Review and Meta-Analysis of Clinical Trials",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR Bronchiectasis OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Pérez V, Mosquera F, de la Rosa Caldas M, Rodrígue",
+      "start_date": "2025-08-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://europepmc.org/article/PMC/PMC12384798",
+      "retrieved_at": "2025-11-09T17:40:24.021480",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12517813",
+      "title": "Chronic cough: A review and prospects.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR Bronchiectasis OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Hu X, Zhang K, Liu T, Zhu XJ.",
+      "start_date": "2025-10-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Pulmonary and Critical Care Medicine",
+      "source_url": "https://europepmc.org/article/MED/41088639",
+      "retrieved_at": "2025-11-09T17:40:24.021480",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12186071",
+      "title": "Effect of Early and Progressive Rehabilitation Protocol on Fatigue, Functional Outcome, and Kinesiophobia in Patients on Non-invasive Ventilation: A Randomized Controlled Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR Bronchiectasis OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Vaidya AC, Kapre VM, Dobhal SP, Shukla MP, Mishra ",
+      "start_date": "2025-06-05",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Cardiovascular and Respiratory Physi",
+      "source_url": "https://europepmc.org/article/MED/40567316",
+      "retrieved_at": "2025-11-09T17:40:24.021480",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "chictr2000039832",
+      "title": "Calcitriol supplementation accelerates the recovery of patients with tuberculosis who have vitamin D deficiency: a randomized, single-blind, controlled clinical trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia Bronchiectasis Tuberculosis",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2022-5-5",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1186/s12879-022-07427-x",
+      "retrieved_at": "2025-11-09T17:40:24.017465",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "nct00192556",
+      "title": "Food incentives to improve completion of tuberculosis treatment: randomised controlled trial in Dili, Timor-Leste",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia Bronchiectasis Tuberculosis",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2016-5-27",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmj.i3039",
+      "retrieved_at": "2025-11-09T17:40:24.017465",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12574243",
+      "title": "Current infectious disease management challenges in inborn errors of immunity.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR Bronchiectasis OR Tuberculosis",
+      "intervention": null,
+      "sponsor": "Zheng S, Lowe DM.",
+      "start_date": "2025-10-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Infectious Disease Service, Department of General ",
+      "source_url": "https://europepmc.org/article/MED/41163029",
+      "retrieved_at": "2025-11-09T17:40:24.021480",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12380396",
+      "title": "Abstracts for NAPCON 2025",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia OR Bronchiectasis OR Tuberculosis",
+      "intervention": null,
+      "sponsor": null,
+      "start_date": "2025-08-01",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://europepmc.org/article/PMC/PMC12380396",
+      "retrieved_at": "2025-11-09T17:40:24.021480",
+      "match_score": 0.9,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "nl2479",
+      "title": "Clinical Trial Test Using Netherland Trial Number",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia Bronchiectasis Tuberculosis",
+      "intervention": null,
+      "sponsor": "Test accounts",
+      "start_date": "2020-7-27",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.5555/clinicaltrials/janl01",
+      "retrieved_at": "2025-11-09T17:40:24.017465",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "chictr-trc-08000097",
+      "title": "Clinical Trial Chinese Journal Article Test",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia Bronchiectasis Tuberculosis",
+      "intervention": null,
+      "sponsor": "Test accounts",
+      "start_date": "2019-7-27",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.5555/clinicaltrials/jacn01",
+      "retrieved_at": "2025-11-09T17:40:24.017465",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "nct_id": "chictr-trc-08000098",
+      "title": "Chinese Clinical Trial Chinese Followup Article Testing",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "Pneumonia Bronchiectasis Tuberculosis",
+      "intervention": null,
+      "sponsor": "Test accounts",
+      "start_date": "2020-3-26",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.5555/clinicaltrials/jacn02",
+      "retrieved_at": "2025-11-09T17:40:24.017465",
+      "match_score": 0.85,
+      "matched_terms": [
+        "Pneumonia",
+        "Bronchiectasis",
+        "Tuberculosis"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US11065248B2",
+      "title": "Tuberculosis treatment regimens with novel antimicrobial agents",
+      "assignee": "TB Alliance",
+      "filing_date": "2021-07-20",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11065248B2",
+      "retrieved_at": "2025-11-09T17:40:23.119930",
+      "match_score": 0.4,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:40:23.119930",
+      "match_score": 0.1,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11147800B2",
+      "title": "Inhaled corticosteroid and LABA combination devices for asthma",
+      "assignee": "GlaxoSmithKline",
+      "filing_date": "2021-10-19",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11147800B2",
+      "retrieved_at": "2025-11-09T17:40:23.119930",
+      "match_score": 0.4,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:40:23.119930",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:40:23.119930",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb Company",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:40:23.119930",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:40:23.119930",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.",
+      "url": "https://europepmc.org/article/PMC/PMC7159299",
+      "snippet": "<h4>Background</h4>A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients.<h4>Metho...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.665030",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "HRCT Chest Findings in Patients with Rheumatoid Arthritis Associated - Interstitial Lung Disease (RA-ILD)",
+      "url": "https://doi.org/10.18535/jmscr/v8i4.92",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:40:24.018465",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "Overview: Clinical Significance of Lung Disease Associated with Rheumatoid Arthritis",
+      "url": "https://doi.org/10.1007/978-981-10-6750-1_1",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:40:24.018465",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "Overview of rheumatoid arthritis and mortality in relation to cardiovascular disease",
+      "url": "https://doi.org/10.1007/978-3-319-26782-1_1",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:40:24.018465",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "The Impact of Disease Duration and Disease Activity on the Cost of Rheumatoid Arthritis: Results from Burden of Rheumatoid Arthritis Across Europe a S",
+      "url": "https://doi.org/10.1016/j.jval.2017.08.754",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:40:24.018465",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30207593/",
+      "snippet": "This article provides a status report on the global burden of cancer worldwide using the GLOBOCAN 2018 estimates of cancer incidence and mortality produced by the International Agency for Research on Cancer, with a focus on geographic variability across 20 world regions. There will be an estimated 1...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.",
+      "url": "https://europepmc.org/article/PMC/PMC146917",
+      "snippet": "The BLAST programs are widely used tools for searching protein and DNA databases for sequence similarities. For protein comparisons, a variety of definitional, algorithmic and statistical refinements described here permits the execution time of the BLAST programs to be decreased substantially while ...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Hallmarks of cancer: the next generation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21376230/",
+      "snippet": "The hallmarks of cancer comprise six biological capabilities acquired during the multistep development of human tumors. The hallmarks constitute an organizing principle for rationalizing the complexities of neoplastic disease. They include sustaining proliferative signaling, evading growth suppresso...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles.",
+      "url": "https://europepmc.org/article/PMC/PMC1239896",
+      "snippet": "Although genomewide RNA expression analysis has become a routine tool in biomedical research, extracting biological insight from such information remains a major challenge. Here, we describe a powerful analytical method called Gene Set Enrichment Analysis (GSEA) for interpreting gene expression data...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement.",
+      "url": "https://europepmc.org/article/PMC/PMC2707599",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "STAR: ultrafast universal RNA-seq aligner.",
+      "url": "https://europepmc.org/article/PMC/PMC3530905",
+      "snippet": "<h4>Motivation</h4>Accurate alignment of high-throughput RNA-seq data is a challenging and yet unsolved problem because of the non-contiguous transcript structure, relatively short read lengths and constantly increasing throughput of the sequencing technologies. Currently available RNA-seq aligners ...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Bias in meta-analysis detected by a simple, graphical test.",
+      "url": "https://europepmc.org/article/PMC/PMC2127453",
+      "snippet": "<h4>Objective</h4>Funnel plots (plots of effect estimates against sample size) may be useful to detect bias in meta-analyses that were later contradicted by large trials. We examined whether a simple test of asymmetry of funnel plots predicts discordance of results when meta-analyses are compared to...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Cytoscape: a software environment for integrated models of biomolecular interaction networks.",
+      "url": "https://europepmc.org/article/PMC/PMC403769",
+      "snippet": "Cytoscape is an open source software project for integrating biomolecular interaction networks with high-throughput expression data and other molecular states into a unified conceptual framework. Although applicable to any system of molecular components and interactions, Cytoscape is most powerful w...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A new method of classifying prognostic comorbidity in longitudinal studies: development and validation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3558716/",
+      "snippet": "The objective of this study was to develop a prospectively applicable method for classifying comorbid conditions which might alter the risk of mortality for use in longitudinal studies. A weighted index that takes into account the number and the seriousness of comorbid disease was developed in a coh...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:40:23.664024",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.62,
+  "confidence_level": "Medium",
+  "report_url": "/api/reports/job_67e0aa0a-1772-4730-b3e2-2719c0d43691.pdf",
+  "created_at": "2025-11-09T12:10:13.962759",
+  "completed_at": "2025-11-09T12:10:36.135521"
+}

@@ -1,0 +1,445 @@
+{
+  "job_id": "e8ea3efa-bec0-4c49-89cf-23f58ef2bc62",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Analysis of respiratory diseases in India reveals a significant unmet need with low competitive intensity, evidenced by limited clinical trial activity (0 active/recruiting) and a relatively small number of patents and publications. This presents a promising market opportunity for novel therapeutic interventions targeting diseases with a high patient burden. Strategic focus should be placed on addressing conditions with limited existing treatment options, leveraging the available patent landscape and scientific research to develop innovative solutions.",
+  "key_findings": [
+    "Analysis Confidence: Medium (1/100) - Based on 11 trials, 5 patents, 19 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 5 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMC12149779",
+      "title": "Effectiveness of Digital Health Interventions for Chronic Obstructive Pulmonary Disease: Systematic Review and Meta-Analysis.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Pulmonary Hypertension OR Asbestosis",
+      "intervention": null,
+      "sponsor": "Zhuang M, Hassan II, W Ahmad WMA, Abdul Kadir A, L",
+      "start_date": "2025-05-26",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Nursing, College of Nursing and Reha",
+      "source_url": "https://europepmc.org/article/MED/40418567",
+      "retrieved_at": "2025-11-09T17:47:50.551687",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12377637",
+      "title": "Smartphone App-Guided Pulmonary Rehabilitation in Chronic Respiratory Diseases: Randomized Controlled Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Pulmonary Hypertension OR Asbestosis",
+      "intervention": null,
+      "sponsor": "Chung C, Kim DK, Lee JK, Heo EY, Kwon H, Kim D, Ki",
+      "start_date": "2025-08-25",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Division of Pulmonary, Allergy and Critical Care M",
+      "source_url": "https://europepmc.org/article/MED/40854157",
+      "retrieved_at": "2025-11-09T17:47:50.551687",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12357564",
+      "title": "Efficacy and Safety of Guben Kechuan Granules in the Treatment of Chronic Bronchitis: A Multi-Center and Randomized Controlled Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Pulmonary Hypertension OR Asbestosis",
+      "intervention": null,
+      "sponsor": "Li D, Shang X, Hong E, Zhu H, Li C, Zhang Y, Du C,",
+      "start_date": "2025-08-12",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Traditional Chinese Medicine for Pul",
+      "source_url": "https://europepmc.org/article/MED/40822380",
+      "retrieved_at": "2025-11-09T17:47:50.551687",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "isrctn61661881",
+      "title": "Acute Effects of Aerosolized Iloprost in COPD Related Pulmonary Hypertension - A Randomized Controlled Crossover Trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Pulmonary Hypertension Asbestosis",
+      "intervention": null,
+      "sponsor": "Public Library of Science (PLoS)",
+      "start_date": "2012-12-27",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1371/journal.pone.0052248",
+      "retrieved_at": "2025-11-09T17:47:50.549690",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "isrctn15892972",
+      "title": "Adherence to walking exercise prescription during pulmonary rehabilitation in COPD with a commercial activity monitor: a feasibility trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Pulmonary Hypertension Asbestosis",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2021-1-18",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1186/s12890-021-01406-9",
+      "retrieved_at": "2025-11-09T17:47:50.549690",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "actrn12618000075280",
+      "title": "Does device matter for inhaled therapies in advanced chronic obstructive pulmonary disease (COPD)? A comparative trial of two devices",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Pulmonary Hypertension Asbestosis",
+      "intervention": null,
+      "sponsor": "Springer Science and Business Media LLC",
+      "start_date": "2019-2-20",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1186/s13104-019-4123-5",
+      "retrieved_at": "2025-11-09T17:47:50.549690",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12482873",
+      "title": "Clinical randomized trial of vitamin D and C supplementation in critically ill patients with respiratory failure.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Pulmonary Hypertension OR Asbestosis",
+      "intervention": null,
+      "sponsor": "Velayati A, Vafa M, Yadollahzadeh M, Shariat Panah",
+      "start_date": "2025-09-29",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Department of Nutrition, School of Public Health, ",
+      "source_url": "https://europepmc.org/article/MED/41023725",
+      "retrieved_at": "2025-11-09T17:47:50.551687",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12553194",
+      "title": "Target trial emulation of DPP-4 Inhibitors in patients with T2DM for pulmonary tuberculosis: a nationwide observational data.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Pulmonary Hypertension OR Asbestosis",
+      "intervention": null,
+      "sponsor": "Chen YG, Wei JC, Yen FS, Sung CY, Huang YH, Yu TS,",
+      "start_date": "2025-10-24",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "School of Medicine, College of Medicine, Taipei Me",
+      "source_url": "https://europepmc.org/article/MED/41137015",
+      "retrieved_at": "2025-11-09T17:47:50.551687",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "nct01614951",
+      "title": "Pulmonary artery perfusion versus no pulmonary perfusion during cardiopulmonary bypass in patients with COPD: a randomised clinical trial",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Pulmonary Hypertension Asbestosis",
+      "intervention": null,
+      "sponsor": "BMJ",
+      "start_date": "2016-9",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1136/bmjresp-2016-000146",
+      "retrieved_at": "2025-11-09T17:47:50.549690",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "nct00384865",
+      "title": "Rationale and design of a phase II clinical trial of aspirin and simvastatin for the treatment of pulmonary arterial hypertension: ASA-STAT",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD Pulmonary Hypertension Asbestosis",
+      "intervention": null,
+      "sponsor": "Elsevier BV",
+      "start_date": "2011-3",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://doi.org/10.1016/j.cct.2010.12.005",
+      "retrieved_at": "2025-11-09T17:47:50.549690",
+      "match_score": 0.85,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    },
+    {
+      "nct_id": "PMC12542166",
+      "title": "Effects of mannitol on cardiac function and postoperative arrhythmias after coronary artery bypass grafting: a randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "COPD OR Pulmonary Hypertension OR Asbestosis",
+      "intervention": null,
+      "sponsor": "Maslakpak MH, Negargar S, Farbod A, Fakhari S, Kha",
+      "start_date": "2025-10-22",
+      "completion_date": null,
+      "enrollment": null,
+      "location": "Nursing and Midwifery School, Maternal and Childho",
+      "source_url": "https://europepmc.org/article/MED/41126237",
+      "retrieved_at": "2025-11-09T17:47:50.551687",
+      "match_score": 0.9,
+      "matched_terms": [
+        "COPD",
+        "Pulmonary Hypertension",
+        "Asbestosis"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:47:51.357907",
+      "match_score": 0.1,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:47:51.357907",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:47:51.357907",
+      "match_score": 0.1,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:47:51.357907",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:47:51.357907",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "Clinical medicine. Circulatory, respiratory and pulmonary medicine",
+      "title": "Eosinophilic Lung Disease",
+      "url": "https://doi.org/10.4137/ccrpm.s575",
+      "snippet": " Eosinophilic lung diseases represent a group of disorders in which lung infiltrates seen on a chest radiograph, may or may not be accompanied by peripheral blood eosinophilia. The causes are varied, and range from drug ingestion, parasite or fungal infection, or else, may be idiopathic. The clinica...",
+      "relevance_score": 0.51,
+      "retrieved_at": "2025-11-09T17:47:51.957819",
+      "matched_terms": []
+    },
+    {
+      "source": "BMC Pulmonary Medicine",
+      "title": "Serum heme oxygenase-1 measurement is useful for evaluating disease activity and outcomes in patients with acute respiratory distress syndrome and acu",
+      "url": "https://doi.org/10.1186/s12890-020-01341-1",
+      "snippet": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                Oxidative stress plays an important role in acute lung injury, which is associated with the development and progression of acute respiratory failure. Here, we investigated whether the degr...",
+      "relevance_score": 0.57,
+      "retrieved_at": "2025-11-09T17:47:51.957819",
+      "matched_terms": []
+    },
+    {
+      "source": "Open Access Journal of Pulmonary &amp; Respiratory Sciences",
+      "title": "Open Lung Approach in Acute Respiratory Distress Syndrome",
+      "url": "https://doi.org/10.23880/oajprs-16000113",
+      "snippet": "Outcome of acuten respiratory distress syndrome (ARDS) is conclusively affected by the approach to ventilator support. Substantial controversy in the application of positive end-expiratory pressure (PEEP) and the use of lung recruitment still exists",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:47:51.957819",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10793162/",
+      "snippet": "<h4>Background</h4>Traditional approaches to mechanical ventilation use tidal volumes of 10 to 15 ml per kilogram of body weight and may cause stretch-induced lung injury in patients with acute lung injury and the acute respiratory distress syndrome. We therefore conducted a trial to determine wheth...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "Current Opinion in Anaesthesiology",
+      "title": "Lung transplantation for coronavirus disease 2019 associated severe acute respiratory distress syndrome",
+      "url": "https://doi.org/10.1097/aco.0000000000001203",
+      "snippet": "<jats:sec>\n            <jats:title>Purpose of review</jats:title>\n            The purpose of this review is to analyze the most recent and relevant literature involving lung transplantation for coronavirus disease 2019 (COVID-19) associated acute respiratory distress syndrome (ARDS), the pathologica...",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:47:51.957819",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Pathological findings of COVID-19 associated with acute respiratory distress syndrome.",
+      "url": "https://europepmc.org/article/PMC/PMC7164771",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19.",
+      "url": "https://europepmc.org/article/PMC/PMC7412750",
+      "snippet": "<h4>Background</h4>Progressive respiratory failure is the primary cause of death in the coronavirus disease 2019 (Covid-19) pandemic. Despite widespread interest in the pathophysiology of the disease, relatively little is known about the associated morphologic and molecular changes in the peripheral...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.",
+      "url": "https://europepmc.org/article/PMC/PMC7135076",
+      "snippet": "<h4>Background</h4>In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the epidemiological and clinical characteristics of 2019-nCoV pneumonia.<h4>Methods</h4>In this retrospective, single-centre study, we include...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical and immunological features of severe and moderate coronavirus disease 2019.",
+      "url": "https://europepmc.org/article/PMC/PMC7190990",
+      "snippet": "BACKGROUNDSince December 2019, an outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, and is now becoming a global threat. We aimed to delineate and compare the immunological features of severe and moderate COVID-19...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A Trial of Lopinavir-Ritonavir in Adults Hospitalized with Severe Covid-19.",
+      "url": "https://europepmc.org/article/PMC/PMC7121492",
+      "snippet": "<h4>Background</h4>No therapeutics have yet been proven effective for the treatment of severe illness caused by SARS-CoV-2.<h4>Methods</h4>We conducted a randomized, controlled, open-label trial involving hospitalized adult patients with confirmed SARS-CoV-2 infection, which causes the respiratory i...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine.",
+      "url": "https://europepmc.org/article/PMC/PMC7787219",
+      "snippet": "<h4>Background</h4>Vaccines are needed to prevent coronavirus disease 2019 (Covid-19) and to protect persons who are at high risk for complications. The mRNA-1273 vaccine is a lipid nanoparticle-encapsulated mRNA-based vaccine that encodes the prefusion stabilized full-length spike protein of the se...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart Disease and Stroke Statistics-2017 Update: A Report From the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC5408160",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Immediate Psychological Responses and Associated Factors during the Initial Stage of the 2019 Coronavirus Disease (COVID-19) Epidemic among the Gen...",
+      "url": "https://europepmc.org/article/PMC/PMC7084952",
+      "snippet": "<i>Background:</i> The 2019 coronavirus disease (COVID-19) epidemic is a public health emergency of international concern and poses a challenge to psychological resilience. Research data are needed to develop evidence-driven strategies to reduce adverse psychological impacts and psychiatric symptoms...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "First Case of 2019 Novel Coronavirus in the United States.",
+      "url": "https://europepmc.org/article/PMC/PMC7092802",
+      "snippet": "An outbreak of novel coronavirus (2019-nCoV) that began in Wuhan, China, has spread rapidly, with cases now confirmed in multiple countries. We report the first case of 2019-nCoV infection confirmed in the United States and describe the identification, diagnosis, clinical course, and management of t...",
+      "relevance_score": 0.9,
+      "retrieved_at": "2025-11-09T17:47:51.784451",
+      "matched_terms": []
+    },
+    {
+      "source": "Wikipedia",
+      "title": "Global Burden of Disease Study",
+      "url": "https://en.wikipedia.org/?curid=6716259",
+      "snippet": "Global Burden of Disease Study began in 1990 as a single World Bank–commissioned study that quantified the health effects of more than 100 diseases and injuries",
+      "relevance_score": 0.89,
+      "retrieved_at": "2025-11-09T17:47:51.139875",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.62,
+  "confidence_level": "Medium",
+  "report_url": "/api/reports/job_e8ea3efa-bec0-4c49-89cf-23f58ef2bc62.pdf",
+  "created_at": "2025-11-09T12:17:41.056810",
+  "completed_at": "2025-11-09T12:18:08.547298"
+}

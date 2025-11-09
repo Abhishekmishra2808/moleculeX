@@ -1,0 +1,214 @@
+{
+  "job_id": "d17ddd5e-7ff1-4db7-bc32-acaa3cdd9475",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Despite a significant patient burden in India, several respiratory diseases currently present a low-competition landscape as evidenced by the limited clinical trial activity. Existing patents suggest potential opportunities in areas like tuberculosis and EGFR inhibitor-based treatments, yet further investigation is needed to fully understand the competitive dynamics and realize the market potential in this underserved area. This warrants further exploration to identify specific disease segments with high unmet needs and limited existing therapeutic options.",
+  "key_findings": [
+    "Analysis Confidence: Medium (1/100) - Based on 0 trials, 6 patents, 14 publications",
+    "Competitive Analysis: Unknown competition detected with 0 active trials",
+    "Patent Landscape: 6 relevant patents identified, 0 currently active",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [],
+  "patents": [
+    {
+      "patent_id": "US11065248B2",
+      "title": "Tuberculosis treatment regimens with novel antimicrobial agents",
+      "assignee": "TB Alliance",
+      "filing_date": "2021-07-20",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11065248B2",
+      "retrieved_at": "2025-11-09T17:35:59.069900",
+      "match_score": 0.4,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:35:59.068899",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:35:59.068899",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:35:59.069900",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb Company",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:35:59.069900",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:35:59.069900",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "Crossref",
+      "title": "Acute Respiratory Distress Syndrome",
+      "url": "https://doi.org/10.1016/b978-0-12-803809-3.00010-5",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:35:59.993611",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "Acute Lung Injury and Acute Respiratory Distress Syndrome",
+      "url": "https://doi.org/10.1016/b978-0-7216-8706-3.50072-4",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:35:59.993611",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "Open Lung Approach in Acute Respiratory Distress Syndrome",
+      "url": "https://doi.org/10.23880/oajprs-16000113",
+      "snippet": "Outcome of acuten respiratory distress syndrome (ARDS) is conclusively affected by the approach to ventilator support. Substantial controversy in the application of positive end-expiratory pressure (PEEP) and the use of lung recruitment still exists",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:35:59.993611",
+      "matched_terms": []
+    },
+    {
+      "source": "Crossref",
+      "title": "Yield and safety of bedside open lung biopsy in mechanically ventilated patients with acute lung injury or acute respiratory distress syndrome",
+      "url": "https://doi.org/10.1016/s8756-3452(08)79070-4",
+      "snippet": "No abstract available.",
+      "relevance_score": 0.5,
+      "retrieved_at": "2025-11-09T17:35:59.993611",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10793162/",
+      "snippet": "<h4>Background</h4>Traditional approaches to mechanical ventilation use tidal volumes of 10 to 15 ml per kilogram of body weight and may cause stretch-induced lung injury in patients with acute lung injury and the acute respiratory distress syndrome. We therefore conducted a trial to determine wheth...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.",
+      "url": "https://europepmc.org/article/PMC/PMC7159299",
+      "snippet": "<h4>Background</h4>A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients.<h4>Metho...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.",
+      "url": "https://europepmc.org/article/PMC/PMC7270627",
+      "snippet": "<h4>Background</h4>Since December, 2019, Wuhan, China, has experienced an outbreak of coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Epidemiological and clinical characteristics of patients with COVID-19 have been reported but risk fa...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A Novel Coronavirus from Patients with Pneumonia in China, 2019.",
+      "url": "https://europepmc.org/article/PMC/PMC7092803",
+      "snippet": "In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China. A previously unknown betacoronavirus was discovered through the use of unbiased sequencing in samples from patients with pneumonia. Human airway epithelial cells were use...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China.",
+      "url": "https://europepmc.org/article/PMC/PMC7042881",
+      "snippet": "<h4>Importance</h4>In December 2019, novel coronavirus (2019-nCoV)-infected pneumonia (NCIP) occurred in Wuhan, China. The number of cases has increased rapidly but information on the clinical characteristics of affected patients is limited.<h4>Objective</h4>To describe the epidemiological and clini...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.",
+      "url": "https://europepmc.org/article/PMC/PMC7135076",
+      "snippet": "<h4>Background</h4>In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the epidemiological and clinical characteristics of 2019-nCoV pneumonia.<h4>Methods</h4>In this retrospective, single-centre study, we include...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine.",
+      "url": "https://europepmc.org/article/PMC/PMC7787219",
+      "snippet": "<h4>Background</h4>Vaccines are needed to prevent coronavirus disease 2019 (Covid-19) and to protect persons who are at high risk for complications. The mRNA-1273 vaccine is a lipid nanoparticle-encapsulated mRNA-based vaccine that encodes the prefusion stabilized full-length spike protein of the se...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Dexamethasone in Hospitalized Patients with Covid-19.",
+      "url": "https://europepmc.org/article/PMC/PMC7383595",
+      "snippet": "<h4>Background</h4>Coronavirus disease 2019 (Covid-19) is associated with diffuse lung damage. Glucocorticoids may modulate inflammation-mediated lung injury and thereby reduce progression to respiratory failure and death.<h4>Methods</h4>In this controlled, open-label trial comparing a range of poss...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "COVID-19: consider cytokine storm syndromes and immunosuppression.",
+      "url": "https://europepmc.org/article/PMC/PMC7270045",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thy...",
+      "url": "https://europepmc.org/article/PMC/PMC4739132",
+      "snippet": "<h4>Background</h4>Thyroid nodules are a common clinical problem, and differentiated thyroid cancer is becoming increasingly prevalent. Since the American Thyroid Association's (ATA's) guidelines for the management of these disorders were revised in 2009, significant scientific advances have occurre...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:36:00.027527",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.57,
+  "confidence_level": "Medium",
+  "report_url": "/api/reports/job_d17ddd5e-7ff1-4db7-bc32-acaa3cdd9475.pdf",
+  "created_at": "2025-11-09T12:05:50.865682",
+  "completed_at": "2025-11-09T12:06:11.494789"
+}

@@ -1,0 +1,338 @@
+{
+  "job_id": "0112129e-f8db-435e-b2ca-b2ce9ccde54b",
+  "query": "Which respiratory diseases show low competition but high patient burden in India?",
+  "status": "completed",
+  "executive_summary": "Analysis of 'Which respiratory diseases show low competition but high patient burden in India?' reveals 6 relevant clinical trials, with 0 currently active or recruiting. The competitive landscape shows low competition in India. This represents a significant opportunity for market entry with limited direct competition. Patent analysis identified 7 relevant patents, and web intelligence gathered 20 supporting data points. Patient burden indicators suggest substantial unmet medical need in this therapeutic area.",
+  "key_findings": [
+    "Analysis Confidence: High (1/100) - Based on 6 trials, 7 patents, 20 publications",
+    "Competitive Analysis: Low competition detected with 0 active trials",
+    "Patent Landscape: 7 relevant patents identified, 0 currently active",
+    "Market Opportunity: Low competition suggests favorable conditions for new entrants",
+    "Geographic Focus: Analysis concentrated on India market dynamics"
+  ],
+  "clinical_trials": [
+    {
+      "nct_id": "PMID41200848",
+      "title": "Dupilumab efficacy by disease severity in pediatric type 2 asthma.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "",
+      "intervention": null,
+      "sponsor": "Pediatr Allergy Immunol",
+      "start_date": "2025 Nov",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41200848/",
+      "retrieved_at": "",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41200192",
+      "title": "Trends in allergen-reactive CRTH2+ T cells and TARC associated with successful outcomes in a phase 2 cashew oral immunotherapy study.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "",
+      "intervention": null,
+      "sponsor": "Front Immunol",
+      "start_date": "2025",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41200192/",
+      "retrieved_at": "",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41189719",
+      "title": "Communication About Sexuality (COSY) Encourages Physical Activity in COPD: A Randomised Trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "",
+      "intervention": null,
+      "sponsor": "Int J Chron Obstruct Pulmon Dis",
+      "start_date": "2025",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41189719/",
+      "retrieved_at": "",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41189129",
+      "title": "Effects of emergency nursing interventions on the outcome of patients with chronic obstructive pulmonary disease: A randomized controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "",
+      "intervention": null,
+      "sponsor": "Medicine (Baltimore)",
+      "start_date": "2025 Oct 17",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41189129/",
+      "retrieved_at": "",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41174682",
+      "title": "Vibrating mesh nebulizers vs. less invasive surfactant administration in the treatment of preterm respiratory distress syndrome: a multicenter, open-label, exploratory, randomized clinical trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "",
+      "intervention": null,
+      "sponsor": "Eur J Med Res",
+      "start_date": "2025 Oct 31",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41174682/",
+      "retrieved_at": "",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "nct_id": "PMID41166646",
+      "title": "The order of completing MDP and D12 does not affect the breathlessness responses: A randomised controlled trial.",
+      "status": "PUBLISHED",
+      "phase": null,
+      "condition": "",
+      "intervention": null,
+      "sponsor": "Chron Respir Dis",
+      "start_date": "2025 Jan-Dec",
+      "completion_date": null,
+      "enrollment": null,
+      "location": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41166646/",
+      "retrieved_at": "",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "patents": [
+    {
+      "patent_id": "US11147800B2",
+      "title": "Inhaled corticosteroid and LABA combination devices for asthma",
+      "assignee": "GlaxoSmithKline",
+      "filing_date": "2021-10-19",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11147800B2",
+      "retrieved_at": "2025-11-09T17:29:37.863866",
+      "match_score": 0.4,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11065248B2",
+      "title": "Tuberculosis treatment regimens with novel antimicrobial agents",
+      "assignee": "TB Alliance",
+      "filing_date": "2021-07-20",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11065248B2",
+      "retrieved_at": "2025-11-09T17:29:37.863866",
+      "match_score": 0.4,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10633411B2",
+      "title": "Pharmaceutical compositions containing EGFR inhibitors for treatment of respiratory disorders",
+      "assignee": "AstraZeneca AB",
+      "filing_date": "2019-04-25",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10633411B2",
+      "retrieved_at": "2025-11-09T17:29:37.857533",
+      "match_score": 0.2,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10557109B2",
+      "title": "JAK inhibitor formulations for treatment of inflammatory diseases",
+      "assignee": "Pfizer Inc.",
+      "filing_date": "2020-02-11",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10557109B2",
+      "retrieved_at": "2025-11-09T17:29:37.862859",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US11180517B2",
+      "title": "SGLT2 inhibitor combinations for diabetes and cardiovascular disease",
+      "assignee": "Boehringer Ingelheim",
+      "filing_date": "2021-11-23",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US11180517B2",
+      "retrieved_at": "2025-11-09T17:29:37.863866",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10675289B2",
+      "title": "PD-1 antibody formulations for cancer immunotherapy",
+      "assignee": "Bristol-Myers Squibb Company",
+      "filing_date": "2020-06-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10675289B2",
+      "retrieved_at": "2025-11-09T17:29:37.863866",
+      "match_score": 0.0,
+      "matched_terms": []
+    },
+    {
+      "patent_id": "US10912783B2",
+      "title": "GLP-1 receptor agonist delivery systems for obesity and diabetes",
+      "assignee": "Novo Nordisk A/S",
+      "filing_date": "2021-02-09",
+      "status": "Granted",
+      "source_url": "https://patents.google.com/patent/US10912783B2",
+      "retrieved_at": "2025-11-09T17:29:37.863866",
+      "match_score": 0.0,
+      "matched_terms": []
+    }
+  ],
+  "web_intel": [
+    {
+      "source": "MED",
+      "title": "Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine.",
+      "url": "https://europepmc.org/article/PMC/PMC7787219",
+      "snippet": "<h4>Background</h4>Vaccines are needed to prevent coronavirus disease 2019 (Covid-19) and to protect persons who are at high risk for complications. The mRNA-1273 vaccine is a lipid nanoparticle-encapsulated mRNA-based vaccine that encodes the prefusion stabilized full-length spike protein of the se...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Ves...",
+      "url": "https://europepmc.org/article/PMC/PMC6322352",
+      "snippet": "The last decade has seen a sharp increase in the number of scientific publications describing physiological and pathological functions of extracellular vesicles (EVs), a collective term covering various subtypes of cell-released, membranous structures, called exosomes, microvesicles, microparticles,...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The DNA-damage response in human biology and disease.",
+      "url": "https://europepmc.org/article/PMC/PMC2906700",
+      "snippet": "The prime objective for every life form is to deliver its genetic material, intact and unchanged, to the next generation. This must be achieved despite constant assaults by endogenous and environmental agents on the DNA. To counter this threat, life has evolved several systems to detect DNA damage, ...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Conversion of peripheral CD4+CD25- naive T cells to CD4+CD25+ regulatory T cells by TGF-beta induction of transcription factor Foxp3.",
+      "url": "https://europepmc.org/article/PMC/PMC2194145",
+      "snippet": "CD4+CD25+ regulatory T cells (Treg) are instrumental in the maintenance of immunological tolerance. One critical question is whether Treg can only be generated in the thymus or can differentiate from peripheral CD4+CD25- naive T cells. In this paper, we present novel evidence that conversion of naiv...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Post-acute COVID-19 syndrome.",
+      "url": "https://europepmc.org/article/PMC/PMC8893149",
+      "snippet": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the pathogen responsible for the coronavirus disease 2019 (COVID-19) pandemic, which has resulted in global healthcare crises and strained health resources. As the population of patients recovering from COVID-19 grows, it is paramount t...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Reactive oxygen species in inflammation and tissue injury.",
+      "url": "https://europepmc.org/article/PMC/PMC3929010",
+      "snippet": "Abstract Reactive oxygen species (ROS) are key signaling molecules that play an important role in the progression of inflammatory disorders. An enhanced ROS generation by polymorphonuclear neutrophils (PMNs) at the site of inflammation causes endothelial dysfunction and tissue injury. The vascular e...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Heart Disease and Stroke Statistics-2023 Update: A Report From the American Heart Association.",
+      "url": "https://europepmc.org/article/PMC/PMC12135016",
+      "snippet": "<h4>Background</h4>The American Heart Association, in conjunction with the National Institutes of Health, annually reports the most up-to-date statistics related to heart disease, stroke, and cardiovascular risk factors, including core health behaviors (smoking, physical activity, diet, and weight) ...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "A global view of hepatocellular carcinoma: trends, risk, prevention and management.",
+      "url": "https://europepmc.org/article/PMC/PMC6813818",
+      "snippet": "Hepatocellular carcinoma (HCC) is the fourth most common cause of cancer-related death worldwide. Risk factors for HCC include chronic hepatitis B and hepatitis C, alcohol addiction, metabolic liver disease (particularly nonalcoholic fatty liver disease) and exposure to dietary toxins such as aflato...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock, 2012.",
+      "url": "https://europepmc.org/article/PMC/PMC7095153",
+      "snippet": "<h4>Objective</h4>To provide an update to the \"Surviving Sepsis Campaign Guidelines for Management of Severe Sepsis and Septic Shock,\" last published in 2008.<h4>Design</h4>A consensus committee of 68 international experts representing 30 international organizations was convened. Nominal groups were...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021.",
+      "url": "https://europepmc.org/article/PMC/PMC8486643",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Haemodynamic definitions and updated clinical classification of pulmonary hypertension.",
+      "url": "https://europepmc.org/article/PMC/PMC6351336",
+      "snippet": "Since the 1st World Symposium on Pulmonary Hypertension (WSPH) in 1973, pulmonary hypertension (PH) has been arbitrarily defined as mean pulmonary arterial pressure (mPAP) ≥25 mmHg at rest, measured by right heart catheterisation. Recent data from normal subjects has shown that normal mPAP was 14.0±...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Standardization of Spirometry 2019 Update. An Official American Thoracic Society and European Respiratory Society Technical Statement.",
+      "url": "https://europepmc.org/article/PMC/PMC6794117",
+      "snippet": "<b>Background:</b> Spirometry is the most common pulmonary function test. It is widely used in the assessment of lung function to provide objective information used in the diagnosis of lung diseases and monitoring lung health. In 2005, the American Thoracic Society and the European Respiratory Socie...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "The blood-brain barrier.",
+      "url": "https://europepmc.org/article/PMC/PMC4292164",
+      "snippet": "Blood vessels are critical to deliver oxygen and nutrients to all of the tissues and organs throughout the body. The blood vessels that vascularize the central nervous system (CNS) possess unique properties, termed the blood-brain barrier, which allow these vessels to tightly regulate the movement o...",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "Diagnosis, management, and treatment of hepatitis C: an update.",
+      "url": "https://europepmc.org/article/PMC/PMC7477893",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    },
+    {
+      "source": "MED",
+      "title": "CONSORT 2010 statement: extension to randomised pilot and feasibility trials.",
+      "url": "https://europepmc.org/article/PMC/PMC5076380",
+      "snippet": "No abstract available.",
+      "relevance_score": 1.0,
+      "retrieved_at": "2025-11-09T17:29:39.673773",
+      "matched_terms": []
+    }
+  ],
+  "confidence_score": 0.85,
+  "confidence_level": "High",
+  "report_url": "/api/reports/job_0112129e-f8db-435e-b2ca-b2ce9ccde54b.pdf",
+  "created_at": "2025-11-09T11:59:23.794705",
+  "completed_at": "2025-11-09T12:00:02.353658"
+}

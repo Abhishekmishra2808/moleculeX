@@ -2,26 +2,29 @@
 MoleculeX - AI-Driven Pharmaceutical Insight Discovery Platform
 Main FastAPI Application
 """
+# Suppress Pydantic warnings from google-genai SDK
+import warnings
+warnings.filterwarnings("ignore", message=".*shadows an attribute in parent.*", category=UserWarning)
+
 from dotenv import load_dotenv
 load_dotenv()  # Load environment variables from .env file
 
-from fastapi import FastAPI, WebSocket, WebSocketDisconnect, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from contextlib import asynccontextmanager
 import uvicorn
+import asyncio
+import json
 import os
 
 from routes import query_router, status_router
-from websocket_manager import ConnectionManager
+from sse_manager import sse_manager
 
 # Create necessary directories
 os.makedirs("data/jobs", exist_ok=True)
 os.makedirs("data/reports", exist_ok=True)
-
-# WebSocket connection manager
-manager = ConnectionManager()
 
 
 @asynccontextmanager
@@ -88,22 +91,55 @@ async def health_check():
     }
 
 
-@app.websocket("/ws/jobs/{job_id}")
-async def websocket_endpoint(websocket: WebSocket, job_id: str):
-    """WebSocket endpoint for real-time job updates"""
-    await manager.connect(websocket, job_id)
-    try:
-        while True:
-            # Keep connection alive - wait for any message from client
-            try:
-                await websocket.receive_text()
-            except Exception:
-                break
-    except WebSocketDisconnect:
-        pass
-    finally:
-        manager.disconnect(websocket, job_id)
-        print(f"WebSocket disconnected for job {job_id}")
+@app.get("/api/stream/{job_id}")
+async def sse_endpoint(job_id: str, request: Request):
+    """Server-Sent Events endpoint for real-time job updates"""
+    
+    async def event_generator():
+        queue = sse_manager.connect(job_id)
+        try:
+            while True:
+                # Check if client disconnected
+                if await request.is_disconnected():
+                    print(f"✓ Client disconnected from SSE stream for job {job_id}")
+                    break
+                
+                try:
+                    # Wait for message with timeout
+                    message = await asyncio.wait_for(queue.get(), timeout=30.0)
+                    
+                    # Format as SSE
+                    event_data = json.dumps(message)
+                    yield f"data: {event_data}\n\n"
+                    
+                    # If job completed or failed, wait longer for client to fetch and render results
+                    if message.get("event_type") in ["job_completed", "job_failed"]:
+                        print(f"✓ Job {message.get('event_type')} for {job_id}, keeping stream open for 10s...")
+                        # Send keepalive while waiting
+                        for i in range(10):
+                            await asyncio.sleep(1)
+                            yield ": keepalive\n\n"
+                        print(f"✓ Closing SSE stream for {job_id}")
+                        break
+                        
+                except asyncio.TimeoutError:
+                    # Send keepalive comment to prevent timeout
+                    yield ": keepalive\n\n"
+                    
+        except Exception as e:
+            print(f"⚠️ SSE error for job {job_id}: {e}")
+        finally:
+            sse_manager.disconnect(job_id, queue)
+    
+    return StreamingResponse(
+        event_generator(),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no"  # Disable buffering in nginx
+        }
+    )
 
 
 @app.get("/api/reports/{filename}")
@@ -132,5 +168,8 @@ if __name__ == "__main__":
         host="0.0.0.0",
         port=8000,
         reload=True,
-        log_level="info"
+        log_level="info",
+        timeout_keep_alive=120,  # Keep connections alive for 2 minutes
+        ws_ping_interval=20,      # Ping every 20 seconds
+        ws_ping_timeout=20        # Wait 20s for pong response
     )
