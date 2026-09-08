@@ -540,3 +540,11 @@ For issues and questions:
 **Built with ❤️ for pharmaceutical researchers**
 
 *MoleculeX - Discovering pharmaceutical insights through AI-powered multi-agent analysis*
+---
+
+## 👥 Contributors
+
+- **Abhishek Mishra** — Project creator, backend architecture, multi-agent system design
+- **Yash Kumar Singh** —  "Frontend testing and UI review", "Documentation and setup verification", "Bug fixes and QA"]
+
+This project was built collaboratively as part of our exploration into AI-powered pharmaceutical research tools.
